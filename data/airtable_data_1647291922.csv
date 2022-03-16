@@ -1,0 +1,762 @@
+,index,id,createdTime,fields_Web,fields_Original Source,fields_Owner_id,fields_Owner_email,fields_Owner_name,fields_Urban Tech Screening,fields_Sniff Test Notes,fields_Company,fields_Total Investment,fields_Number of Employees backup,fields_Number of Employees,fields_Sub-category (linked),fields_Latitude,fields_Business Address,fields_Category (linked),fields_Employees,fields_Year Founded,fields_Location,fields_Contact Email,fields_Longitude,fields_categorization notes,fields_Category,fields_Survey Sent,fields_Sub-category,fields_Metadata Sources + Notes,fields_Contact Name,fields_Position,fields_Survey Response,fields_Year Acquired or Dissolved,fields_Valuation at Acquisition,fields_Revenue/Budget,fields_Form,fields_Keywords,fields_Pre-Publish Review,fields_Social Media
+0,3,rec0C1X6J53tsmZHo,2021-10-26T16:28:52.000Z,https://navigine.com,,usrzlz6zDGzjGmaEg,mfd64@cornell.edu,Max Dumas,Passed,"Indoor navigation and way-finding systems
+",Navigine,1700000.0,13,13.0,['recMljynTYjGtXbYr'],40.7535575,"335 Madison Ave, New York, NY 10017, US",['receyB6jWwnjSbV8a'],11-50,2011.0,Manhattan,info@navigine.com,-73.9781361,indoor navigation tech for buildings,['Mobility Systems'],2022-03-01,['Mobility Systems: Navigation & Wayfinding'],,,,,,,,,,,
+1,7,rec0Ieyu848WpFLyA,2022-01-05T20:22:37.000Z,https://beta.nyc/,TechNYC,usr9BPdDIhuQuzTkj,atownsend@cornell.edu,Anthony Townsend,Passed,,BetaNYC,,3,3.0,['recd4MIMoRnO8UcTB'],40.7240978,"121 Avenue of the Americas, 6th Floor, New York, NY, 10013",['recRDZqf1tuLAXPKP'],1-10,2008.0,Manhattan,zhi@beta.nyc,-74.0052743,,['Civic Systems'],2022-03-03,['Civic Systems: Digital Rights'],"TO DO ask Noel for an address
+
+",Zhi He,Data and Research Manager at Civic Innovation Lab,,,,,,,,
+2,14,rec0drInLam2xIdn1,2022-01-05T20:22:37.000Z,https://girlswhocode.com/,TechNYC,usrirgB6rl9ulQW3Z,pa293@cornell.edu,Preksha Agarwal,Passed,"""Girls Who Code is an international non-profit organization working to close the gender gap in technology and change the image of what a programmer looks like and does. ""
+
+",Girls Who Code,7100000.0,544,544.0,['recuDsRljHOP7xwHK'],40.7476873,"1250 Broadway FL 17 New York, NY 10001",['reca3rMDOoKHI3hPh'],500+,2011.0,Manhattan,info@girlswhocode.com,-73.9878772,,['Education Systems'],2022-03-03,['Education Systems: Tech Training'],,,,,,,,,,,
+3,17,rec0moMrqM8W66jln,2022-01-05T20:22:37.000Z,https://www.compstak.com/,TechNYC,usr2qPunnCed2lMv6,lk545@cornell.edu,Lars Kouwenhoven,Passed,"commercial RE data
+",CompStak,80900000.0,,,['recXTrODcFXkbucO3'],40.7283289,"36 Cooper Sq, New York, NY 10003",['recdgZhrJxyjqLAb9'],11-50,2012.0,Manhattan,info@compstak.com,-73.9915885,,['Building Systems'],2022-03-03,['Building Systems: Property Management'],"Address on Google Maps and BuiltinNyc
+",,,,,,,,,,
+4,24,rec1DLNLqs8Pz7Qg6,2022-01-13T14:27:55.000Z,https://www.cubic.com/about/locations,,usr9BPdDIhuQuzTkj,atownsend@cornell.edu,Anthony Townsend,Passed,"transit payments
+
+",Cubic Transportation Systems,,,,['recFdD4KnUimyaKUC'],40.752023,"462 Seventh Avenue, New York, NY, 10018",['receyB6jWwnjSbV8a'],500+,1997.0,Manhattan,CubicInfo@cubic.com,-73.99039909999999,,['Mobility Systems'],2022-03-03,['Mobility Systems: TransitTech'],,,,,,,,,,,
+5,26,rec1F02g5LCZstwXp,2022-01-05T20:22:37.000Z,https://hyr.work/,TechNYC,usr2qPunnCed2lMv6,lk545@cornell.edu,Lars Kouwenhoven,Passed,"last-minute gig work hiring for retailiers/food service
+",Hyr,2400000.0,,,['recKZR0IOkFvsMhPI'],40.7416299,"16 W 23rd St, New York, NY 10010",['rec5CKA579ehIVo7b'],1-10,2015.0,Manhattan,info@hyr.work,-73.9904399,,['Labor Systems'],2022-03-03,['Labor Systems:  Local Hiring'],"Address on Google Maps. Employees + funding - Crunchbase
+",,,,,,,,,,
+6,30,rec1ZPg6n1MP5aoRx,2021-10-11T13:48:46.000Z,https://agtech-x.com/,NYC EDC,usruYurWuYKJoW6LE,jjl295@cornell.edu,Jenny Liu,Passed,"Acquired by Agritecture LLC (looks to be Toronto-based?) in 2019. <https://www.agritecture.com/blog/2019/6/20/agritecture-acquires-agtech-x-to-advance-urban-agriculture-entrepreneurship-globally>
+",Agritecture,,,,['rec7zrOknjV6JR9yL'],40.7136205,"40 Bushwick Ave, Brooklyn, New York 11211, US",['recEhjg8dnMkICv2w'],1-10,2014.0,Manhattan,jeffrey@agritecture.com,-73.9417455,,['Food Systems'],2022-02-28,['Food Systems: Urban/Indoor Farming'],"acquired
+",Jeffrey Landau,Director of Business Development,"We no longer have a physical office.
+
+More info here - <https://www.agritecture.com/about>
+
+**Jeffrey Landau**Director of Business Development & Partnerships
+
+email: [jeffrey@agritecture.com](mailto:jeffrey@agritecture.com)
+office: +1.347.709.7587
+",,,,,,,
+7,37,rec1oOD3usrD49l76,2021-10-26T19:25:27.000Z,https://tech.cornell.edu/,NYC EDC,usr9BPdDIhuQuzTkj,atownsend@cornell.edu,Anthony Townsend,Passed,"Tech University based in NYC
+","Urban Tech Hub, Cornell Tech",,3,3.0,['recKRq9wisBEpQYsw'],40.7546836,"2 W Loop Rd, New York, NY, 10044",['recHuk1pvKzYmvRFG'],1-10,2019.0,Manhattan,,-73.9561878,,['Innovation Systems'],,['Innovation Systems: Applied Research'],"first-hand knowledge
+",,,,,,,,,,
+8,41,rec1wvOfAGSL1r778,2021-10-26T16:22:23.000Z,https://www.cityblock.com,,usruYurWuYKJoW6LE,jjl295@cornell.edu,Jenny Liu,Passed,"Tech-driven healthcare provider for those in underserved communities.
+",Cityblock Health,20800000.0,434,434.0,['rec1Fb2i8tWTBB8wH'],40.6625048,"495 Flatbush Ave #C5, Brooklyn, NY 11225",['reca3rMDOoKHI3hPh'],251-500,2017.0,Brooklyn,info@cityblock.com,-73.9614225,,['Health Systems'],2022-03-01,['Health Systems: Social Care'],,,,,,,109900000.0,,,,
+9,45,rec26yyuTNEClJzat,2022-01-05T20:22:37.000Z,https://www.friendswithholograms.com/,TechNYC,usrirgB6rl9ulQW3Z,pa293@cornell.edu,Preksha Agarwal,Passed,"AR/VR incubating a couple of urban tech-like projects
+",Cortney Harding Consulting,,3,3.0,['recYIePhsZkr376xu'],40.719249,"1 NORTHSIDE PIERS, #3B, Brooklyn, NY 11249",['rece3dYUKHXpHhEkU'],1-10,2014.0,Brooklyn,,-73.963953,,['Information Systems'],,['Information Systems: AR/VR'],,Dead??,,,,,,,,,
+10,47,rec2FaqVSeafSktPF,2022-01-05T20:22:37.000Z,https://www.verizon.com/,TechNYC,usr9BPdDIhuQuzTkj,atownsend@cornell.edu,Anthony Townsend,Passed,"need to ID # of jobs in urban tech in NYC (of 26,800 total in NY state)
+",Verizon,,,,['rec5FjxYhSmX68bzd'],40.7138844,"140 West St, New York, NY 10007",['rece3dYUKHXpHhEkU'],500+,2000.0,Manhattan,,-74.01320079999999,,['Information Systems'],,['Information Systems: Platform'],,,,,,,,https://www.verizon.com/about/our-company/verizon-corporate-headquarters,,,
+11,51,rec2falaFOdwldoV6,2022-01-07T05:00:22.000Z,https://www.foodprintgroup.com/,,usrirgB6rl9ulQW3Z,pa293@cornell.edu,Preksha Agarwal,Passed,"Foodprint Group works with food, hospitality and commercial office operations to embed zero waste best practices in design and operations into buildings. From reducing food and packaging waste to implementing national recycling programs to ensuring wasted materials make it into the circular economy, we put our clients on the path to resource efficiency.  
+",Foodprint Group,,6,6.0,['recsZ3Zc9dgmOn2NC'],40.6789586,"35 2nd Street Brooklyn, NY, 11231",['recb7WeB0tStkTUq8'],1-10,2017.0,Brooklyn,,-73.9938596,,['Waste Systems'],,['Waste Systems: Diversion'],"linkedin		
+",Christina Grace,Founder and CEO,,,,,https://www.foodprintgroup.com/contact,,,
+12,61,rec31EhfIqWELnhf3,2021-11-02T18:56:10.000Z,https://www.hraadvisors.com/tech/,NYC EDC,usr9BPdDIhuQuzTkj,atownsend@cornell.edu,Anthony Townsend,Passed,"Planning consultants with a digital masterplanning practice.
+",HR&A Advisors,,,,['recCYxgacqCMvP8Nb'],40.7190756,"99 Hudson Street, 3rd Floor, New York, NY 10013",['recHuk1pvKzYmvRFG'],1-10,1976.0,Manhattan,info@hraadvisors.com,-74.0090645,,['Innovation Systems'],2022-03-02,"['Innovation Systems:  Design, Engineering, and Planning Services']","TO DO ask David Gllford when the Urban Tech & Innovation practice was founded, and approx head count <https://www.hraadvisors.com/tech/> 
+",,,,,,,,,,
+13,68,rec3OP0K63bJHvWUG,2022-01-21T16:18:52.000Z,https://mealco.co/,,usrirgB6rl9ulQW3Z,pa293@cornell.edu,Preksha Agarwal,Passed,"aggregator for inbound delivery orders for independent restaurants, funded by Commonweal
+",MealCo,7500000.0,30,30.0,['recVl5jyxBBi57JrF'],40.7430664,"19 W 24th St , New York, NY 10010",['recEhjg8dnMkICv2w'],11-50,2019.0,Manhattan,,-73.9903997,,['Food Systems'],,['Food Systems: Alt-commerce'],"employment and investment from Crunchabse
+",,,,,,,,,,
+14,79,rec47Sp8TuAGv7k3z,2021-10-26T19:35:14.000Z,https://brooklynnavyyard.org/,NYC EDC,usr9BPdDIhuQuzTkj,atownsend@cornell.edu,Anthony Townsend,Passed,"""The Brooklyn Navy Yard Development Corporation (BNYDC) is a not-for-profit corporation that serves as the real estate developer and property manager of the Yard on behalf of its owner, the City of New York""
+",Brooklyn Navy Yard Development Corp,,,,['recVfx2URziaUpqz4'],40.6985551,"141 Flushing Avenue, Suite 801, Brooklyn, NY 11205",['recRDZqf1tuLAXPKP'],101-250,1966.0,Brooklyn,info@bnydc.org,-73.9712029,,['Civic Systems'],2022-03-01,['Civic Systems: Living Labs'],"adjust for urban tech staff? or ok to say that these jobs are all related to urban tech
+",,,,,,,,,,
+15,125,rec6MuA5e0XQhOfpJ,2021-11-02T02:32:15.000Z,https://solarkal.com/,NYC EDC,usrCxpuT0RoHLuwkR,ek542@cornell.edu,Eesha Khanna,Passed,"SolarKal is the largest B2B solar energy marketplace in the US, connecting organizations to solar providers who compete for their business.
+",SolarKal,1500000.0,18,18.0,['recDZbMMMp5QJXXpQ'],40.71097169999999,"222 Broadway  21st Floor, New York, NY 10038",['recoxnv8QKuu7vlwx'],11-50,2016.0,Manhattan,Info@SolarKal.com,-74.0084072,,['Energy Systems'],2022-03-02,['Energy Systems: Renewables'],"Employee range and count: LinkedIn. Funding: Crunchbase.
+",,,"YOu can correct the amount raised to $1.5M
+---
+It will be published on our website. We pulled all of this information from public sources. If you want to correct any of it, please let me know.
+
+> On Mar 2, 2022, at 11:01 AM, SolarKal Admin <[info@solarkal.com](mailto:info@solarkal.com)> wrote:
+> 
+> Hello and thanks for reaching out. Where will this be published? We're a private company and prefer to keep our information confidential. 
+
+",,,,,"Solar Access, Energy Marketplace",,
+16,132,rec6iZZJAXwjPZM7R,2022-01-05T20:22:37.000Z,https://www.uber.com/,TechNYC,usrzlz6zDGzjGmaEg,mfd64@cornell.edu,Max Dumas,Passed,,Uber,,,,['recXHKdGEiWcRgmHo'],40.7111628," 175 Greenwich St, New York, 10007, US ",['receyB6jWwnjSbV8a'],500+,2009.0,Manhattan,,-74.0120886,,['Mobility Systems'],,['Mobility Systems:  Shared mobility'],"Investment set to zero to reflect this is branch office.
+
+",,,,,,,,,['Verify jobs #'],
+17,141,rec7M7UfC8usUom6Q,2021-10-26T19:57:41.000Z,https://farmshelf.com/,,usrirgB6rl9ulQW3Z,pa293@cornell.edu,Preksha Agarwal,Passed,"Developer of small-scale indoor farming equipment. Farmshelf enables anyone to grow food where they live, work, and eat by providing the hardware and expertise.
+",Farmshelf,10800000.0,25,25.0,['rec7zrOknjV6JR9yL'],40.6982973,"63 Flushing Ave Bldg. 128, Brooklyn, NY 11205",['recEhjg8dnMkICv2w'],11-50,2016.0,Brooklyn,grow@farmshelf.com,-73.97423599999999,,['Food Systems'],2022-03-02,['Food Systems: Urban/Indoor Farming'],"crunchbase	
+",,,,,,,,,,
+18,142,rec7PUu5RcfvxP0wF,2022-01-05T20:22:37.000Z,https://mealpal.com/,TechNYC,usrzlz6zDGzjGmaEg,mfd64@cornell.edu,Max Dumas,Passed,"Company providing reduced-price meals from local restaurants as part of a subscription service.
+",MealPal,35000000.0,,,['recVl5jyxBBi57JrF'],40.7451715,"45 W 27th St, New York, 10001, US",['recEhjg8dnMkICv2w'],101-250,2016.0,Manhattan,hello@mealpal.com,-73.9900275,,['Food Systems'],2022-03-02,['Food Systems: Alt-commerce'],"Crunchbase, Linkedin
+",,,,,,,,,,
+19,147,rec7WOOex3jhKCE5G,2022-01-05T20:22:37.000Z,https://www.ideo.com/ ,TechNYC,usrzlz6zDGzjGmaEg,mfd64@cornell.edu,Max Dumas,Passed,"Consulting firm focused on a broad array of topics including energy, food, etc.
+",IDEO,,,,['recCYxgacqCMvP8Nb'],40.7291207,"395 Hudson Street, New York, NY, 10014",['recHuk1pvKzYmvRFG'],101-250,1978.0,Manhattan,,-74.0077944,,['Innovation Systems'],,"['Innovation Systems:  Design, Engineering, and Planning Services']","estimate based on total headcount of about 700, NYC is their 2nd main office
+",,,,,,,https://www.ideo.com/contact/media-inquiry,,,
+20,153,rec7oBZX0JfgcpGBe,2022-01-05T20:22:37.000Z,https://www.marqii.com/,TechNYC,usrzlz6zDGzjGmaEg,mfd64@cornell.edu,Max Dumas,Passed,"Company providing online business tools for restaurants
+",Marqii,1100000.0,,,['recVl5jyxBBi57JrF'],40.6691462,"247 11th St, Brooklyn, NY 11215",['recEhjg8dnMkICv2w'],11-50,2016.0,Brooklyn,info@marqii.com,-73.9893503,,['Food Systems'],2022-03-02,['Food Systems: Alt-commerce'],,,,,,,,,,,
+21,156,rec7zH82UvPN5h48X,2021-10-26T20:37:19.000Z,https://temboo.com/,NYC EDC,usrzlz6zDGzjGmaEg,mfd64@cornell.edu,Max Dumas,Passed,"We're Temboo, the only no-code platform for environmental engagement. We enable anyone to access and contribute to environmental data, building more empowered communities. Capture real-time data on soil, air, and water quality. Monitor your environment with a wide array of sensors including soil moisture, water flow, temperature, air quality, humidity, PM2.5-10, turbidity, and more.
+",Temboo,,,,,40.7185974," 104 Franklin St., New York, New York 10013, US ",['recqVXmif5koh0T0u'],11-50,2012.0,Manhattan,,-74.00561379999999,,['Natural Systems'],,,,Cormac Driver,Head of Product Engineering,,,,,,,,https://www.linkedin.com/in/cormacdriver/
+22,158,rec82pqJbAC3ttnMk,2022-01-05T20:22:37.000Z,https://www.dronegrafix.com/,TechNYC,usrzlz6zDGzjGmaEg,mfd64@cornell.edu,Max Dumas,Passed,"Company using drones for facade inspection and other construction monitoring applications
+",Dronegrafix,4000000.0,,,['rec1HjG8ErJDBzk43'],40.7762025,"114 W 70th St, New York City, New York, 10023",['recdgZhrJxyjqLAb9'],11-50,2019.0,Manhattan,info@dronegrafix.com,-73.98040879999999,,['Construction Systems'],2022-03-02,['Construction Systems: Construction Management'],"Can't find number of employees. Seems kinda dead, very difficult to find any info on the company. Not on LinkedIn/Crunchbase, Twitter inactive. 
+",,,,,,,,,,
+23,159,rec83qh2xxux2ZKmx,2022-01-05T20:22:37.000Z,https://wiredscore.com/,TechNYC,usrzlz6zDGzjGmaEg,mfd64@cornell.edu,Max Dumas,Passed,"Company providing a standard metric for the digital connectivity level of buildings
+",WiredScore,9000000.0,,,['recXTrODcFXkbucO3'],40.7263597,"155 Wooster St Level 2, New York, NY 10012, United States",['recdgZhrJxyjqLAb9'],101-250,2013.0,Manhattan,info@wiredscore.com,-73.9994851,,['Building Systems'],2022-03-02,['Building Systems: Property Management'],"Crunchbase, Company website
+",,,,,,,,,,
+24,165,rec8N7WfkYxc5KUkp,2022-01-05T20:22:37.000Z,https://www.blackstone.com/,TechNYC,usrzlz6zDGzjGmaEg,mfd64@cornell.edu,Max Dumas,Passed,"Large-scale private equity firm investing in many areas including real estate and infrastructure.
+",Blackstone,,,,['rec9YdIfEpeflVrvZ'],40.7579332,"345 Park Ave, New York, NY 10154, US",['recHuk1pvKzYmvRFG'],251-500,1985.0,Manhattan,BlackstoneShareholderRelations@Blackstone.com,-73.9722189,,['Innovation Systems'],2022-03-02,['Innovation Systems: Investing'],,,,,,,,,,,
+25,166,rec8OeqUPTEguCyjv,2022-01-05T20:22:37.000Z,https://convene.com/,TechNYC,usrzlz6zDGzjGmaEg,mfd64@cornell.edu,Max Dumas,Passed,"Coworking company that has recently pivoted to specializing in hybrid events.
+",Convene,280500000.0,,,['recVC3ZXCuU3trkwt'],40.7080156,"101 Greenwich St, New York, 10006, US",['rec5CKA579ehIVo7b'],500+,2009.0,Manhattan,marketing@convene.com,-74.0132392,,['Labor Systems'],2022-03-02,['Labor Systems: Hybrid Solutions'],,,,,,,,,,,
+26,171,rec8YDLnVQzmEHJbQ,2021-10-26T16:03:16.000Z,https://www.smartenspaces.com,,usrzlz6zDGzjGmaEg,mfd64@cornell.edu,Max Dumas,Passed,"Enabling companies to create hybrid office environments
+",Smarten Spaces,12000000.0,88,88.0,['recVC3ZXCuU3trkwt'],40.75365730000001,"335 Madison Ave, 4th Floor, New York, NY, 10017",['rec5CKA579ehIVo7b'],1-10,2017.0,Manhattan,business@smartenspaces.com,-73.9782445,use AI to help companies become hybrid workplace,['Labor Systems'],2022-03-01,['Labor Systems: Hybrid Solutions'],"AT reduced employment to 1-10 as they are based at incubator, this is likely a small branch office
+",,,,,,,,,,
+27,175,rec8jYHPi23aZkk2v,2021-10-19T18:49:04.000Z,https://contextere.com/,,usrCxpuT0RoHLuwkR,ek542@cornell.edu,Eesha Khanna,Passed,"Provides analytics for on-site worker performance.
+",Contextere,2400000.0,11,11.0,['rec1HjG8ErJDBzk43'],40.75365730000001,"335 Madison Ave, 4th Floor, New York, NY",['recdgZhrJxyjqLAb9'],11-50,2015.0,Manhattan,info@contextere.com,-73.9782445,,['Construction Systems'],2022-03-01,['Construction Systems: Construction Management'],,,,,,,,,Construction Worker Analytics,,
+28,184,rec92pIi49KAKpQhP,2021-10-26T19:51:22.000Z,https://www.edntech.com,,usrirgB6rl9ulQW3Z,pa293@cornell.edu,Preksha Agarwal,Passed,"ēdn makes smart garden technology. Their mission is to create products that enable everyone to grow fresh herbs, vegetables, and flowers at the push of a button.
+","Edn, Inc",1500000.0,14,14.0,['rec7zrOknjV6JR9yL'],40.69961300000001,"630 Flushing Ave., Brooklyn, NY 11206",['recEhjg8dnMkICv2w'],11-50,2016.0,Manhattan,support@edntech.com,-73.94792559999999,,['Food Systems'],2022-03-02,['Food Systems: Urban/Indoor Farming'],"crunchbase
+
+",,,,,,,,,,
+29,185,rec958k64V4J0kFxt,2021-11-02T02:30:37.000Z,www.transittechlab.org,NYC EDC,usrzlz6zDGzjGmaEg,mfd64@cornell.edu,Max Dumas,Passed,"The Transit Tech Lab is an accelerator program for public transportation solutions. 
+",Transit Tech Lab,,,,['recg3IwW4njNc0Qdp'],40.7033758,"One Battery Park Plaza, 5th Floor New York, NY 10004",['recHuk1pvKzYmvRFG'],1-10,2018.0,Manhattan,news@transitinnovation.org,-74.0138065,,['Innovation Systems'],2022-03-02,['Innovation Systems: Accelerators & Incubators'],"looks like just 3 permanent staff <https://transitinnovation.org/about--2018> launch https://transitinnovation.org/mta-and-business-leaders-launch-transit-tech-lab
+",,,,,,,,"Government, Public Transportation, Innovation Lab",,
+30,188,rec9Eyv4NpIitoZPR,2021-10-26T19:23:16.000Z,https://www.kinvolved.com,,usrzlz6zDGzjGmaEg,mfd64@cornell.edu,Max Dumas,Passed,"Developer of a social enterprise platform designed to improve student attendance and reduce chronic absenteeism.
+",Kinvolved,4000000.0,17,17.0,['rec5eU9qQxFbU2jo5'],40.70548429999999,"25 Broadway, New York, 10004, US",['reca3rMDOoKHI3hPh'],11-50,2012.0,Manhattan,info@kinvolved.com,-74.0137577,,['Education Systems'],2022-03-01,['Education Systems: Connected Schools'],"Crunchbase, Linkedin
+",,,,,,,,Student Management,,
+31,191,rec9Pr7OxhMm9eLFV,2021-10-26T19:37:29.000Z,https://ginkgo.city/,,usr9BPdDIhuQuzTkj,atownsend@cornell.edu,Anthony Townsend,Passed,"Former name: Citiesense
+",Ginkgo,692700.0,7,7.0,['recSgHDqDvtFe7D6x'],40.7535575,"335 Madison Ave, New York, NY 10017",['recRDZqf1tuLAXPKP'],1-10,2015.0,Manhattan,,-73.9781361,use IT digital tool/platform for local orgs to manage data and maps of neighbourhoods,['Civic Systems'],,['Civic Systems: Data + Media Platforms'],,,,,,,,https://www.ginkgores.com/contact/,,,
+32,192,rec9Q9730bEIv9t6D,2022-01-05T20:22:37.000Z,https://www.gend.co/,TechNYC,usrzlz6zDGzjGmaEg,mfd64@cornell.edu,Max Dumas,Passed,"Company working with organizations, including many governmental entities, to improve their digitization.
+",Generation Digital,,,,['recrfWhwjchUU2MZu'],40.7529739,"54 W 40th St, New York, New York 10018, US",['recHuk1pvKzYmvRFG'],11-50,2016.0,Manhattan,hello@gend.co,-73.9842196,,['Innovation Systems'],2022-03-02,"['Innovation Systems:  Design, Engineering, and Planning Services', 'Information Systems: Integrated Solutions']",,,,,,,,,,,
+33,193,rec9RoKmWKhHsbKpR,2022-01-05T20:22:37.000Z,https://www.getcruise.com/,TechNYC,usrzlz6zDGzjGmaEg,mfd64@cornell.edu,Max Dumas,Passed,"Autonomous vehicle manufacturer based in SF. Currently providing grocery delivery services. Subsidiary of General Motors.
+",Cruise Automotive,,,,['recBK2rW9pSktPsk8'],40.7249946,"250 Hudson St, Ste 102, New York, NY, 10013-1413",['receyB6jWwnjSbV8a'],1-10,2017.0,Manhattan,,-74.0072895,,"['Mobility Systems', 'Food Systems']",,"['Mobility Systems: Vehicles', 'Food Systems:  Delivery']","investment at zero to reflect HQ location. Start date reflects announce of NYC testing, DNB says just 1 person here https://www.dnb.com/business-directory/company-profiles.cruise\_llc.252010548267c917758ab6a6355b502e.html
+",,,,,,,,,"['Adjust Investment $', 'Verify jobs #']",
+34,196,rec9e63n43usWSLq5,2022-01-05T20:22:37.000Z,https://www.vts.com/,TechNYC,usrzlz6zDGzjGmaEg,mfd64@cornell.edu,Max Dumas,Passed,"Commercial real estate inventory management platform
+",VTS,127000000.0,300,300.0,['recXTrODcFXkbucO3'],40.7541888,"119 W 40th Street, Floor 10 New York, NY 10018",['recdgZhrJxyjqLAb9'],251-500,2012.0,Manhattan,info@vts.com,-73.98608569999999,,['Building Systems'],2022-03-02,['Building Systems: Property Management'],"Company website
+",,,,,,,,,,
+35,206,recA9OXBwqKie9x0p,2021-10-19T17:12:39.000Z,www.radar.io,,usr9BPdDIhuQuzTkj,atownsend@cornell.edu,Anthony Townsend,Passed,"Location data infrastructure (geofencing, routing) company building location-aware app eperiences
+",Radar,30500000.0,63,63.0,['recKd0KOVz9BhWPMt'],40.7040297,"20 Jay St, Brooklyn, New York 11201, US",['rece3dYUKHXpHhEkU'],51-100,2020.0,Brooklyn,support@radar.io,-73.9867893,enabling geofencing for apps,['Information Systems'],2022-03-01,['Information Systems: Location Intelligence'],,,,,,,,,,,
+36,207,recAA9JVIhISxOFKV,2021-10-26T19:46:51.000Z,www.urbanenergy.nyc,NYC EDC,usrCxpuT0RoHLuwkR,ek542@cornell.edu,Eesha Khanna,Passed,"Rooftop solar for multi-family buildings. 
+",Urban Energy,55000000.0,13,13.0,['recDZbMMMp5QJXXpQ'],40.6992184,"116 Ainslie St Brooklyn, NY 11211",['recoxnv8QKuu7vlwx'],11-50,2017.0,Brooklyn,rwilcox@urbanenergy.nyc,-73.9739135,"for building owners, turn space into solar panels
+",['Energy Systems'],2022-03-02,"['Energy Systems: Renewables', 'Energy Systems: Buildings']","Not able to find total investment $
+",Russell Wilcox ,CEO,"Name: Urban Energy 
+Business Address: 116 Ainslie St Brooklyn, NY 11211
+Year Founded: 2017
+Employment Range: 11-50
+Number of Employees: 13
+Total Investment: $5mm as a debt facility. $50mm in project financing. No equity investment to date. 
+
+
+",,,,,"Solar, Rooftop Solar",,
+37,217,recAXjq3XIYPToTyE,2021-10-19T22:02:34.000Z,https://www.powermarket.io,NYC EDC,usrCxpuT0RoHLuwkR,ek542@cornell.edu,Eesha Khanna,Passed,"Marketplace wherein users can purchase a share of a solar plant/solar power contributor's power generation. They work with utilities and solar developers. Under NYC Urban Tech Hub.
+",PowerMarket,0.0,25,25.0,['recDZbMMMp5QJXXpQ'],40.75365730000001,"335 Madison Avenue - 4th Floor, New York, NY 10017",['recoxnv8QKuu7vlwx'],11-50,2016.0,Brooklyn,info@powermarket.io,-73.9782445,,['Energy Systems'],2022-03-01,['Energy Systems: Renewables'],"Not able to find total investment $
+",,,"All correct. Total Investment = $0
+",,,,,"Community Solar, Energy Marketplace",,
+38,237,recBZzG29SYM0jfTY,2022-01-05T20:22:37.000Z,motivateco.com,TechNYC,usr9BPdDIhuQuzTkj,atownsend@cornell.edu,Anthony Townsend,Passed,"citibike (acquired by Lyft)
+",Motivate,,,,['recXHKdGEiWcRgmHo'],40.72878,"335 West St, New York, NY 10016",['receyB6jWwnjSbV8a'],500+,2009.0,Manhattan,info@motivateco.com,-74.01200399999999,,['Mobility Systems'],2022-03-02,['Mobility Systems:  Shared mobility'],,,,,,,,,,,
+39,244,recBxCiewwbhquACM,2021-10-26T20:42:58.000Z,https://www.logcheck.com/,TechNYC,usruYurWuYKJoW6LE,jjl295@cornell.edu,Jenny Liu,Passed,"Logistics app that tracks building maintenance and inspections
+",LogCheck,3300000.0,,,['rec3hVUb0uifxVbD5'],40.7530803,"1400 Broadway, Ste. 2202 New York, NY 10018",['recdgZhrJxyjqLAb9'],11-50,2012.0,Manhattan,info@logcheck.com,-73.98702399999999,Logistics app that tracks building maintenance and inspections,['Building Systems'],2022-03-02,['Building Systems: Facilities Management'],"acquired by BuildingEngines
+",,,,,,,,"Building Maintenance, Building Management, Tracker App",,
+40,245,recBzIk8JaN1qV9tl,2021-10-19T16:04:25.000Z,https://www.urbanumbrella.com/,,usrCxpuT0RoHLuwkR,ek542@cornell.edu,Eesha Khanna,Passed,"Company focused on making visually appealing scaffolding for commercial construction.
+",Urban Umbrella,22500000.0,21,21.0,['recs4pTBrGCE4AjJZ'],40.7189577,"20 Harrison St., Apt 3, New York, NY, 10013-2899",['recdgZhrJxyjqLAb9'],11-50,2016.0,Manhattan,bk@urbanumbrella.com,-74.0097914,,['Construction Systems'],2022-03-01,['Construction Systems: Fabrication'],,Benjamin Krall,CEO,,,,3320000.0,,Pretty/Functional Scaffolding,,
+41,249,recC3C2cMFICf0iF0,2022-01-05T20:22:37.000Z,https://www.tarform.com/,TechNYC,usr9BPdDIhuQuzTkj,atownsend@cornell.edu,Anthony Townsend,Passed,"electric motorcycles!
+",Tarform Motorcycles,,,,['recBK2rW9pSktPsk8'],40.6972175,"10 Grand Ave, Brooklyn, NY 11205",['receyB6jWwnjSbV8a'],1-10,2016.0,Brooklyn,info@tarform.com,-73.96504999999999,,['Mobility Systems'],2022-03-02,['Mobility Systems: Vehicles'],,,,,,,,,EV,,
+42,253,recC83tRMXDqPTAer,2021-10-28T16:22:26.000Z,www.navjoyinc.com,,usrzlz6zDGzjGmaEg,mfd64@cornell.edu,Max Dumas,Passed,"Navjoy is a leader in the selection, validation, and implementation of technology for public and private transportation agencies.
+",Navjoy,,,,['receBXbN6odOQUuS7'],39.7213194,"301 Commercial Road (Next to CDOT CTMC), Suite B, Golden, Colorado 80401, US",['receyB6jWwnjSbV8a'],101-250,2003.0,Manhattan,Communication@navjoyinc.com,-105.1910523,,['Mobility Systems'],2022-03-02,['Mobility Systems: Traffic informatics'],,,,,,,,,"Government, Public Transportation, Analytics",,
+43,254,recC9weASKrtR0WR7,2021-10-19T17:31:41.000Z,https://funnelleasing.com,,usruYurWuYKJoW6LE,jjl295@cornell.edu,Jenny Liu,Passed,"Customer-centric leasing for leasing offices, including self-guided and virtual tours, and an app to take care of the entire leasing process
+",Funnel,38600000.0,79,79.0,['recXTrODcFXkbucO3'],40.7428043,"150 WEST 22ND STREET, 8TH FLOOR NEW YORK NY 10011",['recdgZhrJxyjqLAb9'],51-100,2010.0,Manhattan,info@funnel.io,-73.99602639999999,renter-centric AI-powered lead management software ,['Building Systems'],2022-03-01,['Building Systems: Property Management'],"address from SEC
+",,,,,,,,,,
+44,255,recCALC14LfzZqBT5,2021-11-02T17:52:45.000Z,https://grouphugtech.com,NYC EDC,usrCxpuT0RoHLuwkR,ek542@cornell.edu,Eesha Khanna,Passed,"We make ridiculously good looking solar panels that are easy to use. (seen on shark tank, backed by mark cuban, expanded to every state in the US)
+",Grouphug,,1,1.0,['recDZbMMMp5QJXXpQ'],40.64770499999999,"517 45th St, 3rd FL Brooklyn, NY, 11220-1306 United States",['recoxnv8QKuu7vlwx'],1-10,2018.0,Manhattan,,-74.00677300000001,,['Energy Systems'],,['Energy Systems: Renewables'],"Not able to find total investment $ 
+",,,,,,75000.0,https://grouphugtech.com/pages/contact,"Solar Panels, Small-scale, E-commerce, Appliances, Manufacturer",,
+45,263,recCSE5feuWi6v42f,2022-01-10T16:54:08.000Z,https://www.arcadis.com/en-us,,usr9BPdDIhuQuzTkj,atownsend@cornell.edu,Anthony Townsend,Passed,"Dutch multi-national, big NYC office, $53 million contract with DEP to support resiliency work
+",Arcadis,,"10,000+",,['recCYxgacqCMvP8Nb'],40.7508189,"27-01 Queens Plaza N, Long Island City, NY 11101",['recHuk1pvKzYmvRFG'],500+,1888.0,Queens,,-73.9387435,,['Innovation Systems'],,"['Innovation Systems:  Design, Engineering, and Planning Services']","How many in NYC office and where is it?
+",,,,,,,https://www.arcadis.com/en-us/contact#office-search-result_country=United%20States,,,
+46,266,recCdY840pI6RwgvA,2021-10-19T16:14:11.000Z,https://urbantechnyc.com/,NYC EDC,usr9BPdDIhuQuzTkj,atownsend@cornell.edu,Anthony Townsend,Passed,"The economic development corporation for NYC.
+",New York City Economic Development Corporation: Urbantech NYC,,26,26.0,['recTxg8F0FeUTZcU5'],40.70972159999999,"1 Liberty St, New York, NY 10006",['recHuk1pvKzYmvRFG'],11-50,1991.0,Manhattan,urbantechnyc@edc.nyc,-74.01080619999999,,['Innovation Systems'],2022-03-01,['Innovation Systems: Networking'],"?? number of folks on urban tech-related stuff
+",,,"Just to clarify, Urbantech NYC is a project within a division within an organization, so just wanted to clarify that we’re only talking about that project team specifically? I
+
+Just want to make sure we avoid any confusion in outside observers assuming EDC was founded in 2016, and only has 26 employees, and if you are interested in a subgroup within EDC, I also want to make sure I’m clear on which subgroup that is (Urbantech NYC team has never had 26 employees, so wondering if the original unit of analysis was the entire department?).
+
+Thanks for all the great work you’re doing in this space.
+
+----
+
+Think just calling EDC broadly urban tech is right — provides enabling infrastructure for the sector (and/or the canvas for it), that characterization won’t offend any sensibilities, and is at least mostly right. Also much easier than going hyper-granular (to the level of project basis).
+
+I think right now we have around 500 employees total. If you need more specific # let me know.
+
+EDC is a story of incarnations and iterations, so feel free to take your pick in terms of founding date — 
+\- 1966: New York City Public Development Corporation, born to resuscitate flagging economy and manage industrial parks/urban planning services (I’d use this one)
+\- 1979: Financial Services Corporation founded in parallel to PDC but more focused on capital than land (this is also where NYCIDA was born)
+\- 1991: NYC Economic Development Corporation created when PDC and FSC merged into single entity as part of City plan to consolidate various providers of economic development services (this is first time the name came about and all services under one roof)
+
+
+",,,,,,,
+47,268,recCkcYG63Gkdkz2P,2021-11-05T07:37:18.000Z,https://bcdi.nyc/innovation,NYC EDC,usrzlz6zDGzjGmaEg,mfd64@cornell.edu,Max Dumas,Passed,"Community-focused makerspace. The Bronx Cooperative Development Initiative (BCDI) is a community-led effort to build an equitable, sustainable, and democratic local economy that creates wealth and ownership for low-income people of color—what we call economic democracy.
+",Bronx Innovation Factory,,8,8.0,['recuDsRljHOP7xwHK'],40.8614561,"2431 Morris Ave, Bronx, NY 10468",['reca3rMDOoKHI3hPh'],1-10,2011.0,Bronx,,-73.9003139,[!!!] economic development organization to build economic democracy,['Education Systems'],,['Education Systems: Tech Training'],,,,,,,,https://bcdi.nyc/contact,,,
+48,275,recDBc3hamGW6jK8V,2021-10-19T15:37:35.000Z,https://ioby.org/,,usr9BPdDIhuQuzTkj,atownsend@cornell.edu,Anthony Townsend,Passed,"Platform focused on connecting local leaders with crowdfunding for projects.
+",ioby,,23,23.0,['recE9ehRLZIohhipt'],40.6773028,"540 President St, Brooklyn, NY 11215",['recRDZqf1tuLAXPKP'],11-50,2008.0,Brooklyn,hello@ioby.org,-73.9853445,,['Civic Systems'],2022-03-01,['Civic Systems: Engagement'],,,,,,,4200000.0,,,,
+49,283,recDSYfK8YAh3H471,2021-10-19T18:25:56.000Z,https://www.kwant.ai/,,usrCxpuT0RoHLuwkR,ek542@cornell.edu,Eesha Khanna,Passed,"Company focused on adding sensors to existing industrial and construction tech to enable predictive analytics.
+",Kwant.ai,903000.0,4,4.0,['rec1HjG8ErJDBzk43'],40.7536344,"335 Madison Ave, Floor 4, New York, NY, 10017-4675",['recdgZhrJxyjqLAb9'],1-10,2018.0,Manhattan,,-73.97814819999999,,['Construction Systems'],,['Construction Systems: Construction Management'],,,,,,,656618.0,,"Construction Optimization, Predictive Analytics",,
+50,286,recDW2czfy37MOlti,2021-10-11T13:52:40.000Z,https://architizer.com/,,usr9BPdDIhuQuzTkj,atownsend@cornell.edu,Anthony Townsend,Passed,"Architecture news site with awards and job postings.
+",Architizer,14000000.0,56,56.0,['recTxg8F0FeUTZcU5'],40.703809,"1 Whitehall Street, 10th Floor, New York, NY 10004, US",['recHuk1pvKzYmvRFG'],51-100,2009.0,Manhattan,support@architizer.com,-74.01279339999999,portfolio media site for architects,['Innovation Systems'],2022-03-01,['Innovation Systems: Networking'],,,,,,,,,,,
+51,289,recDg1HpEepuiMSPi,2022-01-05T20:22:37.000Z,https://www.doordash.com/,TechNYC,usruYurWuYKJoW6LE,jjl295@cornell.edu,Jenny Liu,Passed,,Doordash,2500000000.0,,,,40.7447995,"125 W 25th St #4th New York, NY 10001",['receyB6jWwnjSbV8a'],500+,2013.0,Manhattan,,-73.99276909999999,,"['Food Systems', 'Logistics Systems']",,['Food Systems:  Delivery'],,,,,,,,https://ir.doordash.com/resources/contact-us/default.aspx,,,
+52,290,recDgSMd2SiqtA6OO,2021-10-26T19:21:05.000Z,https://carto.com,,usr9BPdDIhuQuzTkj,atownsend@cornell.edu,Anthony Townsend,Passed,"Spatial data analytics. The leading cloud native Location Intelligence platform.
+",Carto,31000000.0,180,180.0,['recKd0KOVz9BhWPMt'],40.7466387,"307 5th Ave, New York, New York 10016, US",['rece3dYUKHXpHhEkU'],101-250,2012.0,Brooklyn,info@carto.com,-73.9853967,location intelligence platform for spatial analysis,['Information Systems'],2022-03-01,['Information Systems: Location Intelligence'],,,,,,,,,,,
+53,296,recE1T5FHiZoTaWGP,2022-01-05T20:22:37.000Z,https://forcetherapeutics.com/,TechNYC,usruYurWuYKJoW6LE,jjl295@cornell.edu,Jenny Liu,Passed,,Force Therapeutics,26200000.0,,,['recMJWRcaTmDI987X'],40.7383312,"29 E 19th Street, 7th Floor, New York, NY 10003, US",['reca3rMDOoKHI3hPh'],101-250,2010.0,Manhattan,support@forcetherapeutics.com,-73.9891152,,['Health Systems'],2022-03-03,['Health Systems: Hybrid Telehealth'],,,,,,,,,,,
+54,297,recE1t1TEjOZZHkW1,2022-01-05T20:22:37.000Z,https://www.metaprop.vc/,TechNYC,usr2qPunnCed2lMv6,lk545@cornell.edu,Lars Kouwenhoven,Passed,"Proptech investors
+",MetaProp NYC,,,,['rec9YdIfEpeflVrvZ'],40.7543811,"214 West 39th Street, #705, New York, NY 10018, US",['recHuk1pvKzYmvRFG'],1-10,2015.0,Manhattan,info@metaprop.vc,-73.9893231,,['Innovation Systems'],2022-03-03,['Innovation Systems: Investing'],"VENTURE CAPITAL FIRM
+",,,,,,,,,,
+55,302,recE9m8wSG02DUevF,2022-01-05T20:22:37.000Z,https://stae.co/,TechNYC,usruYurWuYKJoW6LE,jjl295@cornell.edu,Jenny Liu,Passed,"Provides streamlined data workflows for public agencies
+",Stae,3000000.0,5,5.0,['recSgHDqDvtFe7D6x'],,comment: NYC but Nneka said detroit?,['recRDZqf1tuLAXPKP'],1-10,2015.0,Manhattan,we@stae.co,,,['Civic Systems'],2022-03-03,['Civic Systems: Data + Media Platforms'],"
+",,,,,,,,,,
+56,313,recEUQbwCT9abxB9Y,2022-01-05T20:22:37.000Z,https://www.procore.com/,TechNYC,usruYurWuYKJoW6LE,jjl295@cornell.edu,Jenny Liu,Passed,"no presence in NYC it seems though
+",Procore,650000000.0,2708,2708.0,['rec1HjG8ErJDBzk43'],40.75416," 521 5th Ave 22nd floor, New York, NY 10175",['recdgZhrJxyjqLAb9'],500+,2003.0,Manhattan,support@procore.com,-73.97979699999999,,['Construction Systems'],2022-03-03,['Construction Systems: Construction Management'],"Employee range and count: LinkedIn. 
+",,,,,,,,,,
+57,316,recEdVoVrWumxFdkY,2021-11-02T02:03:34.000Z,https://www.revercare.com,,usruYurWuYKJoW6LE,jjl295@cornell.edu,Jenny Liu,Passed,"ReverCare helps families navigate care for their elderly loved ones. AT nothing specifically urban here -  JL : seems more like a concierge for elders, not really under any of the current subs
+
+
+",Revercare,150000.0,2,2.0,['rec1Fb2i8tWTBB8wH'],40.7546836,"2 W Loop Rd, New York, NY 10044",['reca3rMDOoKHI3hPh'],1-10,2018.0,Manhattan,info@revercare.com,-73.9561878,,['Health Systems'],2022-03-02,,,,,,,,,,,,
+58,323,recEolvk1phmUBIf9,2022-01-05T20:22:37.000Z,https://kadence.co/,TechNYC,usruYurWuYKJoW6LE,jjl295@cornell.edu,Jenny Liu,Passed,"hybrid work environment
+
+",Kadence,16900000.0,,,['recVC3ZXCuU3trkwt'],40.7038978,"195 Plymouth St., 6/4, Brooklyn, New York, NY 11201, US",['rec5CKA579ehIVo7b'],11-50,2013.0,Brooklyn,hello@kadence.co,-73.9854363,,['Labor Systems'],2022-03-03,['Labor Systems: Hybrid Solutions'],"HQ in SF: ZIP 95117
+",,,,,,,,,,
+59,325,recF2FJdNT6e9X5an,2021-11-02T18:43:25.000Z,https://www.latch.com,,usruYurWuYKJoW6LE,jjl295@cornell.edu,Jenny Liu,Passed,"Latch is a fully integrated hardware and software solution that's making multifamily buildings better places to live, work, and visit.
+",Latch,342000000.0,439,439.0,['rec3hVUb0uifxVbD5'],40.75368539999999,"508 West 26th Street Suite 6G New York, NY 10001 United States",['recdgZhrJxyjqLAb9'],251-500,2014.0,Manhattan,press@latch.com,-73.9991637,"operating system for smart home products, specialized in locks",['Building Systems'],2022-03-02,['Building Systems: Facilities Management'],,,,,,,,,,,
+60,327,recF6WKgQCyPvXtQb,2021-10-26T16:24:29.000Z,https://www.avvir.io,,usrCxpuT0RoHLuwkR,ek542@cornell.edu,Eesha Khanna,Passed,"Analysis for reality capture data and BIM in construction to identify risks and slowdowns, automated progress tracking
+",Avvir,12600000.0,34,34.0,['rec1HjG8ErJDBzk43'],40.7535575,"335 Madison Ave, New York, NY 10017",['recdgZhrJxyjqLAb9'],11-50,2017.0,Manhattan,hello@avvir.io,-73.9781361,,['Construction Systems'],2022-03-01,['Construction Systems: Construction Management'],,,,,,,3910000.0,,"Construction Optimization, Progress Tracking",,
+61,336,recFRHfaQfP86QTXg,2022-01-06T19:56:49.000Z,https://commonwealventures.com/,,usrzlz6zDGzjGmaEg,mfd64@cornell.edu,Max Dumas,Passed,"New VC focused on infrastructure and urban, run by NAte Loewenthiel.		
+",Commonweal Ventures,50000000.0,,,['rec9YdIfEpeflVrvZ'],40.7351956,"201 E 17th Street, New York, NY, 10003",['recHuk1pvKzYmvRFG'],1-10,2021.0,Manhattan,admin@commonwealventures.com,-73.9853559,both venture financing and political capital (access to politic people),['Innovation Systems'],2022-03-03,['Innovation Systems: Investing'],"
+",Nathaniel Loewentheil,,,,,,,,,
+62,340,recFeY4ZeJasMGaj8,2022-01-05T20:22:37.000Z,https://imagen.ai/,TechNYC,usruYurWuYKJoW6LE,jjl295@cornell.edu,Jenny Liu,Passed,,Imagen Technologies,135000000.0,,,['recMJWRcaTmDI987X'],40.7456676,"151 W 26th St, New York, New York 10001, US",['reca3rMDOoKHI3hPh'],51-100,2015.0,Manhattan,info@imagen.ai,-73.9932066,,['Health Systems'],2022-03-03,['Health Systems: Hybrid Telehealth'],,,,,,,,,,,
+63,342,recFoWd8fKdSd36td,2021-10-19T16:42:37.000Z,https://perlstreet.com/,,usr9BPdDIhuQuzTkj,atownsend@cornell.edu,Anthony Townsend,Passed,"Streamlines investments in technology and hardware projects by providing data driven transparency for investors and comprehensive fundraising guidance for startups.
+",Perl Street,2000000.0,2,2.0,['recIVqNPj8v27K5yO'],40.7135213,"200 Vesey Street 24th Floor New York, NY 10281",['recdgZhrJxyjqLAb9'],1-10,2018.0,Manhattan,team@perlstreet.com,-74.015072,,['Building Systems'],2022-03-01,['Building Systems: Infrastructure & Asset Management'],"website, not investors
+",,,,,,,,,,
+64,350,recGFJNSB0nzNG653,2021-10-26T16:40:27.000Z,https://www.swtchenergy.com,,usrzlz6zDGzjGmaEg,mfd64@cornell.edu,Max Dumas,Passed,"Scalable, end-to-end EV charging & energy management solutions
+",Swtch,5000000.0,,,['rec7Giua9uNBNO1s1'],40.6929116,"370 Jay Street, 7th Floor Brooklyn, NY 11201 United States",['receyB6jWwnjSbV8a'],11-50,2016.0,Brooklyn,,-73.98746129999999,,['Mobility Systems'],,['Mobility Systems: EV Infrastructure'],,,,,,,,,"EV, Charging Infrastructure",,
+65,356,recGn9iaRD7eMNHfA,2022-01-05T20:22:37.000Z,https://www.f6s.com/fairfareinc,TechNYC,usruYurWuYKJoW6LE,jjl295@cornell.edu,Jenny Liu,Passed,,FairFare Inc,400000.0,,,['recFdD4KnUimyaKUC'],40.7535575,"335 Madison Ave, New York, US",['receyB6jWwnjSbV8a'],1-10,2015.0,Manhattan,hello@fairfare.nyc,-73.9781361,,['Mobility Systems'],2022-03-03,['Mobility Systems: TransitTech'],,Adero Davis,CEO,,,,,,,,https://www.linkedin.com/in/aderodavis/
+66,360,recHFBoLb07VUswbz,2022-01-05T20:22:37.000Z,https://www.oracle.com/index.html,TechNYC,usruYurWuYKJoW6LE,jjl295@cornell.edu,Jenny Liu,Passed,"they have a decent engineering presence here in NYC
+",Oracle,,,,['recUwmBtQkN1prgeh'],40.7405489,"315 Park Avenue South 8th Floor New York, NY 10010",['recRDZqf1tuLAXPKP'],500+,1977.0,Manhattan,,-73.9855549,,['Civic Systems'],,['Civic Systems: GovTech'],,,,,,,,,,,
+67,370,recHih4ZAhdf84U3H,2021-10-26T20:28:05.000Z,https://amperon.co/,,usrCxpuT0RoHLuwkR,ek542@cornell.edu,Eesha Khanna,Passed,"Amperon is a provider of smart meters to deliver real-time energy data forecasts.
+",Amperon,10000000.0,20,20.0,['rec31GwmRDlkBUANu'],40.75365730000001,"335 Madison Ave, 4th Floor  New York, NY 10017",['recoxnv8QKuu7vlwx'],11-50,2017.0,Manhattan,info@amperon.co,-73.9782445,,['Energy Systems'],2022-02-28,['Energy Systems: Grid'],,,,"Name: Amperon
+Business Address: 335 Madison Ave, 4th Floor New York, NY 10017
+Year Founded: 2017
+Employment Range: 11-50
+Number of Employees: 20
+Total Investment: 10M
+
+
+",,,,,"Grid-scale Load Forecast, Weather Forecast",,
+68,372,recHlIGqOo9BC3Y1v,2022-01-13T13:58:13.000Z,http://urbansystemslab.com/people,,usr9BPdDIhuQuzTkj,atownsend@cornell.edu,Anthony Townsend,Passed,,"Urban Systems Lab, The New School",,17,17.0,['recKRq9wisBEpQYsw'],40.73703039999999,"79 5th Avenue, 16th Floor, New York, NY 10003",['recHuk1pvKzYmvRFG'],11-50,2015.0,Manhattan,urbansystemslab@newschool.edu ,-73.99250669999999,,['Innovation Systems'],2022-03-03,['Innovation Systems: Applied Research'],"website team list
+",,,"Thanks for including us.
+The correct name is Urban Systems Lab, The New School 
+",,,,,,,
+69,383,recIIC4nLXLh2Evnn,2022-01-05T20:22:37.000Z,https://www.techdad.com/,TechNYC,usr2qPunnCed2lMv6,lk545@cornell.edu,Lars Kouwenhoven,Passed,"TechDad provides thoughtful solutions for your digital life.
+Automation, Entertainment, Wellness, Video Conferencing, Managed IT.
+",TechDad,,,,['recVC3ZXCuU3trkwt'],40.743592,"119 West 23rd Street Suite 404, New York, NY 10011",['rec5CKA579ehIVo7b'],11-50,2013.0,Manhattan,care@techdad.com,-73.99332849999999,,['Labor Systems'],2022-03-03,['Labor Systems: Hybrid Solutions'],"Address from website. No funding information found.
+",,,,,,,,,,
+70,387,recIaKKeOuZF2JNP5,2021-11-02T17:45:24.000Z,www.urban-x.com,NYC EDC,usrirgB6rl9ulQW3Z,pa293@cornell.edu,Preksha Agarwal,Passed,"Incubator in Greenpoint. VIP.
+",Urban-X,,19,19.0,['recg3IwW4njNc0Qdp'],40.7246788,"29 Norman Avenue , Brooklyn, NY 11215 ",['recHuk1pvKzYmvRFG'],11-50,2016.0,Brooklyn,hello@urban-x.com,-73.9548791,,['Innovation Systems'],2022-03-02,['Innovation Systems: Accelerators & Incubators'],,,,,,,,,,,
+71,388,recIfB4pofTgkaCGm,2021-10-26T19:53:55.000Z,https://www.radiatorlabs.com/,,usrCxpuT0RoHLuwkR,ek542@cornell.edu,Eesha Khanna,Passed,"Radiator Labs is solving a 100-year-old problem: the lack of comfort and efficiency in steam-heated buildings. The Radiator Labs Cozy is a smart, internet-connected, thermostatic cover for radiators.    Buildings outfitted with Cozys save up to 45% on heating costs, and users with Cozys are able to control their heating temperatures for the first time in the history of steam-heated buildings.
+",Radiator Labs,4300000.0,9,9.0,['recxoYfGUZEqppDaZ'],40.6984715,"63 Flushing Ave Building 292, Suite 409 Brooklyn, NY 11205",['recoxnv8QKuu7vlwx'],1-10,2011.0,Brooklyn,marshall@radiatorlabs.com,-73.9777647,modernize radiators to save energy and allow temp control through app,['Energy Systems'],2022-03-02,['Energy Systems: Buildings'],,Marshall Cox,CEO and Founder,,,,888280.0,,"HVAC Product, Thermal Comfort, Building Performance, Retrofit",,
+72,390,recInLXkoMs9qdYpW,2022-01-05T20:22:37.000Z,https://marketproof.com/,TechNYC,usr2qPunnCed2lMv6,lk545@cornell.edu,Lars Kouwenhoven,Passed,"### **New Development & Condo Intelligence**
+
+",Marketproof,,,,['recXTrODcFXkbucO3'],40.7027681,"68 Jay St Suite 512, Brooklyn, NY 11201",['recdgZhrJxyjqLAb9'],1-10,2017.0,Brooklyn,kael@marketproof.com,-73.987062,,['Building Systems'],2022-03-03,['Building Systems: Property Management'],"Address from website. Employees from LinkedIn + Crunchbase. No data on funding. 
+",Kael Goodman,President and CEO,,,,,,,,
+73,393,recIvsUYxvEQxiZaL,2021-10-19T15:54:18.000Z,https://www.blocpower.io/,,usrCxpuT0RoHLuwkR,ek542@cornell.edu,Eesha Khanna,Passed,"Company focused on adding smart, efficient heating and cooling systems to buildings. BlocPower utilizes its proprietary software for analysis, leasing, project management, and monitoring of urban clean energy projects and its customers are saving 20-40% on their energy bills each year.
+",BlocPower,81400000.0,74,74.0,['recxoYfGUZEqppDaZ'],40.6984589,"63 Flushing Ave Bldg 212, Suite 507, Brooklyn, NY 11205",['recoxnv8QKuu7vlwx'],51-100,2014.0,Brooklyn,Info@blocpower.io,-73.97775589999999,,['Energy Systems'],2022-03-01,['Energy Systems: Buildings'],,,,,,,,,"Building Performance, All-electric",,
+74,398,recJAQS7EZJHx6DPA,2021-10-26T16:36:24.000Z,https://www.nyas.org/landing/urban-infrastructure-systems/,NYC EDC,usr9BPdDIhuQuzTkj,atownsend@cornell.edu,Anthony Townsend,Passed,"Program on Sustainable Urban Infrastructure Systems <https://www.nyas.org/landing/urban-infrastructure-systems/>
+",New York Academy of Sciences: Urban Infrastructure Systems,,,,['recTxg8F0FeUTZcU5'],40.7134166,"250 Greenwich Street, 40th floor, New York, NY 10007",['recHuk1pvKzYmvRFG'],1-10,2021.0,Manhattan,nyas@nyas.org,-74.0119311,,['Innovation Systems'],2022-03-01,['Innovation Systems: Networking'],"n.b. indicates urban tech-related program staffing
+",,,,,,,,,,
+75,401,recJQj4sQvIEmpnV1,2022-01-05T20:22:37.000Z,https://www.olo.com/,TechNYC,usr2qPunnCed2lMv6,lk545@cornell.edu,Lars Kouwenhoven,Passed,"Think of Olo as the interface between restaurants and the on-demand world. We connect the dots for happy customers outside the four walls.
+",Olo,184500000.0,,,['recRmZEGi4RvhgsfE'],40.7127431,"285 Fulton Street, New York, NY 1007",['recEhjg8dnMkICv2w'],101-250,2005.0,Manhattan,hello@olo.com,-74.0133795,,['Food Systems'],2022-03-03,['Food Systems:  Delivery'],"Address from Bloomberg. Employees and funding from Crunchbase.
+",,,,,,,,,,
+76,404,recJaSgUcsXBODK0Q,2021-10-19T16:58:10.000Z,https://www.localize.city/,NYC EDC,usrirgB6rl9ulQW3Z,pa293@cornell.edu,Preksha Agarwal,Passed,"Curated rental platform focusing on specific areas of New York City.
+",Localize.city,75000000.0,140,140.0,['recpqZAbOMUsb5rTl'],40.7474262,"35 W 31st St, 6th floor, New York, New York 10001, US",['recdgZhrJxyjqLAb9'],101-250,2016.0,Manhattan,hey@localize.city,-73.9875328,"use AI to streamline house hunting/buying process
+",['Housing Systems'],2022-03-01,"['Housing Systems: Listings, Referral & Brokerage']",,,,,,,,,,,
+77,406,recJgWQg1THmAZCoI,2022-01-05T20:22:37.000Z,https://sitecompli.com/,TechNYC,usr2qPunnCed2lMv6,lk545@cornell.edu,Lars Kouwenhoven,Passed,"NYC property managers’ #1 choice for preventing violations, performing required inspections, and getting more done, every day
+",SiteCompli,,,,['rec3hVUb0uifxVbD5'],40.7393401,"22 W 19th St 8th Floor, New York, NY 10011",['recdgZhrJxyjqLAb9'],11-50,2008.0,Manhattan,PR@sitecompli.com,-73.9928918,,['Building Systems'],2022-03-03,['Building Systems: Facilities Management'],"Address from website. No funding info. Employee count from Crunchbase + LinkedIn.
+",,,,,,,,,,
+78,414,recJyvbiA5wLprXoQ,2021-11-02T03:05:56.000Z,http://multimerdata.com,,usrirgB6rl9ulQW3Z,pa293@cornell.edu,Preksha Agarwal,Passed,"Multimer is a location analytics system that supports human-centered spatial design and decisions.
+",Multimer,,2,2.0,['recrSVGURn4rHAspL'],40.7371449,"41 Union Square West, New York, NY 1003",['recRDZqf1tuLAXPKP'],1-10,2014.0,Manhattan,,-73.99072869999999,location analytics system using biosensor data for insights on human space usage,['Civic Systems'],,['Civic Systems: Public Space Tech'],"linkedin
+",,,,,,,https://dukodestudio.com/multimere/contact-us/,,,
+79,417,recK99g6ZeJ7nZykE,2022-01-05T20:22:37.000Z,https://www.morty.com/,TechNYC,usrhiRWAamSYqjkQ2,jy726@cornell.edu,Jinglun Yu,Passed,"Online mortgage broker
+",Morty,36500000.0,,,['recpqZAbOMUsb5rTl'],40.72746860000001,"180 Varick Street, Suite 816, New York, NY, 10014",['recdgZhrJxyjqLAb9'],11-50,2015.0,Manhattan,hello@morty.com,-74.00528419999999,,['Housing Systems'],2022-03-03,"['Housing Systems: Listings, Referral & Brokerage']",,,,,,,,,,,
+80,418,recKDGCYJfHzQtf0M,2022-01-05T20:22:37.000Z,https://www.freshdirect.com/help/delivery_info_express.jsp,TechNYC,usr2qPunnCed2lMv6,lk545@cornell.edu,Lars Kouwenhoven,Passed,,FreshDirect,,,,['recRmZEGi4RvhgsfE'],40.80129,"2 St Ann's Ave, Bronx, NY 10454",['recEhjg8dnMkICv2w'],500+,1998.0,Bronx,,-73.9192879,,['Food Systems'],,['Food Systems:  Delivery'],"Not entirely sure what to do with this record. AT I say include it since they are one of few in Bronx and a hometown hero
+",,,,,,,,,,
+81,441,recLy4ZzIXn07hd2V,2021-10-19T17:43:15.000Z,https://www.kettleos.com/,,usrzlz6zDGzjGmaEg,mfd64@cornell.edu,Max Dumas,Passed,"Provides a platform that enables organisations to build and manage smart hybrid work models
+",KettleSpace,,31,31.0,['recVC3ZXCuU3trkwt'],40.7459414,"132 W 27th St, New York, New York 10001, US",['rec5CKA579ehIVo7b'],11-50,2016.0,Manhattan,hello@kettlespace.com,-73.9926978,work experience platform operating system for hybrid workspace,['Labor Systems'],2022-03-01,['Labor Systems: Hybrid Solutions'],,,,,,,,,,,
+82,450,recMNy68PhAzq5EuO,2021-10-26T19:40:51.000Z,https://uniteus.com,,usruYurWuYKJoW6LE,jjl295@cornell.edu,Jenny Liu,Passed,"Collaboration and coordination software for the delivery of health and social services.
+",Unite Us,195300000.0,800,800.0,['rec1Fb2i8tWTBB8wH'],40.7117094,"217 Broadway floor 8, New York, NY 10007",['reca3rMDOoKHI3hPh'],500+,2013.0,Manhattan,support@uniteus.com,-74.0086978,,['Health Systems'],2022-03-01,['Health Systems: Social Care'],,,,,,,61500000.0,,,,
+83,451,recMQsa6miZ36BrtL,2021-10-19T16:39:50.000Z,https://www.closedlooppartners.com,NYC EDC,usrzlz6zDGzjGmaEg,mfd64@cornell.edu,Max Dumas,Passed,"Research and Innovation Center of Closed Loop Partners, a New York-based investment firm specialising in the circular economy
+",Closed Loop Partners,,,,['rec9YdIfEpeflVrvZ'],40.7652747,"888 7th Ave, 10th Floor, New York NY 10106",['recHuk1pvKzYmvRFG'],51-100,2014.0,Manhattan,,-73.9807922,,['Innovation Systems'],,['Innovation Systems: Investing'],"linked in says 41
+",,,,,,,https://www.closedlooppartners.com/about-us/contact-us/,,,
+84,465,recNEQoI4qwPekinU,2021-11-02T16:15:49.000Z,https://www.rts.com,,usrirgB6rl9ulQW3Z,pa293@cornell.edu,Preksha Agarwal,Passed,"RTS partners with local, independent haulers and outfits vehicles with proprietary routing technology that streamlines collection routes and keeps in constant communication with individual pickup sites.
+",Recycle Track Systems,51700000.0,90,90.0,['rec2TASDEPEVAhNDY'],40.758558,"477 Madison Ave Suite 600, New York, NY 10022",['recb7WeB0tStkTUq8'],51-100,2014.0,Manhattan,info@rts.com,-73.9746236,,['Waste Systems'],2022-03-02,['Waste Systems: Sanitation Services'],"linkedin, website, crunchbase
+",,,,,,,,,,
+85,472,recNTZBrdlm28Wfmf,2022-01-05T20:22:37.000Z, https://www.lyft.com/,TechNYC,usr2qPunnCed2lMv6,lk545@cornell.edu,Lars Kouwenhoven,Passed,"Ridesharing, eScooters, bikes
+",Lyft,,,,['recXHKdGEiWcRgmHo'],40.7538549,"441 9th Ave, New York, NY 10001",['receyB6jWwnjSbV8a'],500+,2012.0,Manhattan,,-73.99650480000001,,['Mobility Systems'],,['Mobility Systems:  Shared mobility'],"Investment set to zero
+
+",,,,,,,,"Shared mobility, ride sharing",['Verify jobs #'],
+86,488,recOjsZmjgaFWPhwa,2021-10-19T17:25:58.000Z,http://www.growsquares.com,NYC EDC,usrirgB6rl9ulQW3Z,pa293@cornell.edu,Preksha Agarwal,Passed,"Develops personalised 'squares' for indoor gardening, adapted to the local environment. Analytics provided in accompanying app.
+",GrowSquares,8000000.0,8,8.0,['rec7zrOknjV6JR9yL'],,comment: remote?,['recEhjg8dnMkICv2w'],1-10,2016.0,Brooklyn,info@growsquares.com,,,['Food Systems'],2022-03-01,['Food Systems: Urban/Indoor Farming'],"crunchbase
+",,,,,,,,,,
+87,492,recOol7DTfCTm3BEc,2022-01-13T13:50:26.000Z,https://nycfuture.org/,,usr9BPdDIhuQuzTkj,atownsend@cornell.edu,Anthony Townsend,Passed,"Has done studies on urban tech in the past
+",Center for An Urban Future,,8,8.0,['recKRq9wisBEpQYsw'],40.7045055,"120 Wall Street, 20th Floor, New York, NY, 10005",['recHuk1pvKzYmvRFG'],1-10,1996.0,Manhattan,jbowles@nycfuture.org,-74.0061101,,['Innovation Systems'],2022-03-03,['Innovation Systems: Applied Research'],,Jonathan Bowles,Executive Director,,,,,,,,
+88,494,recOuIZ5eqOS5J7Td,2022-01-05T20:22:37.000Z,https://www.zocdoc.com/,TechNYC,usruYurWuYKJoW6LE,jjl295@cornell.edu,Jenny Liu,Passed,"Find local doctors AT: has always been about local. inclined to keep it
+
+",Zocdoc,,,,,40.7243328,"568 Broadway 2nd Floor New York, NY 10012",['reca3rMDOoKHI3hPh'],500+,2007.0,Manhattan,press@zocdoc.com,-73.997408,,['Health Systems'],2022-03-03,,,,,,,,,,,,
+89,501,recPElG8u1G2MFlcs,2022-01-05T20:22:37.000Z,https://www.nytech.org/,TechNYC,usr2qPunnCed2lMv6,lk545@cornell.edu,Lars Kouwenhoven,Passed,,New York Tech Alliance,,,,['recTxg8F0FeUTZcU5'],40.7551316,"307 W 38th St, Floor 13, New York, NY, 10018",['recHuk1pvKzYmvRFG'],11-50,2009.0,Brooklyn,,-73.992355,,['Innovation Systems'],,['Innovation Systems: Networking'],"Could not find their address anywhere, but LinkedIn mentions Brooklyn as their base. First mention of a project was in 2011, so I've used that as the year of founding. AT https://www.cbinsights.com/company/new-york-technology-council
+",,,,,,,https://www.nytech.org/contact_us,,,
+90,502,recPFvKN53nLarhaP,2022-01-05T20:22:37.000Z,https://www1.nyc.gov/site/doitt/index.page,TechNYC,usr2qPunnCed2lMv6,lk545@cornell.edu,Lars Kouwenhoven,Passed,,DoITT,,1200,1200.0,['recUwmBtQkN1prgeh'],40.693364,"2 MetroTech Center, New York, NY",['recRDZqf1tuLAXPKP'],500+,1995.0,Brooklyn,communications@doitt.nyc.gov,-73.9857147,,['Civic Systems'],2022-03-03,['Civic Systems: GovTech'],"Address on Google Maps. Number of employees from Crunchbase
+",,,,,,,,,,
+91,506,recPPvatHDGwG5VBY,2021-10-26T19:39:02.000Z,https://govos.com/,,usr9BPdDIhuQuzTkj,atownsend@cornell.edu,Anthony Townsend,Passed,"The GovOS government software platform offers a suite of cloud-based solutions that enable local governments to automate and streamline operations, provide seamless access to resources and information, and deliver cutting-edge digital services to businesses, residents and agencies.
+",Seamlessdocs (acquired by Kofile),11700000.0,81,81.0,['recUwmBtQkN1prgeh'],40.7446047,"3 E 28th St, 2nd fl, New York, NY 10016",['recRDZqf1tuLAXPKP'],51-100,2009.0,Manhattan,,-73.9865413,,['Civic Systems'],,['Civic Systems: GovTech'],"looks like they kept the seamlessdocs team in place in NYC https://www.prnewswire.com/news-releases/govos-inc-establishes-headquarters-in-austin-tx-301348711.html
+",,,,,,,,,,
+92,508,recPcgl5jStl3HNpy,2022-01-05T20:22:37.000Z,https://www.curacity.com/,TechNYC,usr2qPunnCed2lMv6,lk545@cornell.edu,Lars Kouwenhoven,Passed,"Hotels. We transform the point of inspiration into your most important revenue strategy.
+",Curacity,7300000.0,,,['recORPBP8BX0IpO53'],40.7410448,"110 East 25th St, New York, NY 10010",['recdgZhrJxyjqLAb9'],1-10,2015.0,Manhattan,contact@curacity.com,-73.9848854,,['Housing Systems'],2022-03-03,['Housing Systems: Lodging'],"Address from website. Employees and funding from Crunchbase
+",,,,,,,,,,
+93,509,recPct1ZYgJEQsNXL,2021-10-19T17:41:34.000Z,https://energy-vision.org,NYC EDC,usrCxpuT0RoHLuwkR,ek542@cornell.edu,Eesha Khanna,Passed,"Independent environmental research institution focusing on clean and renewable energy
+",Energy Vision,,21,21.0,['recDZbMMMp5QJXXpQ'],40.7326755,"138 East 13th Street New York, NY 10003",['recoxnv8QKuu7vlwx'],11-50,2009.0,Manhattan,admin@energy-vision.org,-73.9882298,,['Energy Systems'],2022-03-01,['Energy Systems: Renewables'],"Not able to find total investment $
+",,,,,,,https://www.energyvision.net/contact-us.html,"Research Non-Profit, Think Tank",,
+94,511,recPenqxssTnr1i92,2022-01-31T15:15:06.000Z,https://aren.ai,,,,,Passed,,Aren,2400000.0,,,['recGHYsDjnI768Tud'],,,,1-10,,Manhattan,,,,['Construction Systems'],,"['Construction Systems: Safety', 'Construction Systems: Surveying & Design']",,,,,,,,,,,
+95,514,recPknVA0JsApW7Fq,2021-10-26T19:55:52.000Z,https://directionalgroup.com/index.html,NYC EDC,usr2qPunnCed2lMv6,lk545@cornell.edu,Lars Kouwenhoven,Passed,"Mostly focused on mobility plays. Directional Group is an advisory consulting firm assisting with execution of financial and strategic initiatives. They focus on businesses in the urban tech sector that are pursuing innovation, new products, new markets or simply better results.  
+",Directional Group,,,,['rec9YdIfEpeflVrvZ'],,"140 Riverside Boulevard, New York, NY 10069",['recHuk1pvKzYmvRFG'],1-10,2014.0,Manhattan,,,,['Innovation Systems'],,['Innovation Systems: Investing'],"website only lists 1 person and looks like a small consulting outfit, founding date per linkedin JL: https://urbantechnyc.com/organization/directional-group/
+
+",,,,,,,,,,
+96,516,recPmmFnlOYEuw6T2,2021-11-02T17:34:01.000Z,www.eva.xyz,,usrzlz6zDGzjGmaEg,mfd64@cornell.edu,Max Dumas,Passed,"We serve as the link from ground to sky for UAV operators, and we will not stop until the perfect infrastructure for professional UAV traffic is achieved.
+",EVA,270000.0,,,['recQgYIrFeJrCevUk'],40.7246788,"29 Norman Ave, Brooklyn, NY, 11222",['receyB6jWwnjSbV8a'],11-50,2017.0,Brooklyn,,-73.9548791,,['Logistics Systems'],,['Logistics Systems: Drones'],,,,,,,,,,,
+97,518,recPpKLZtQN36eV9D,2021-10-11T13:19:25.000Z,https://www.renthop.com/,,usrirgB6rl9ulQW3Z,pa293@cornell.edu,Preksha Agarwal,Passed,"Rental search company
+",RentHop,350000.0,11,11.0,['recpqZAbOMUsb5rTl'],40.7234213,"335 Madison Ave, 4th Floor, New York, NY 10017, US",['recdgZhrJxyjqLAb9'],11-50,2009.0,Manhattan,press@renthop.com,-74.00545319999999,smart apartment search website,['Housing Systems'],2022-03-01,"['Housing Systems: Listings, Referral & Brokerage']",,,,"Hi Anthony,
+
+Thanks for reaching out. I have a few corrections for you (in red below)
+Name: RentHop
+Business Address: 335 Madison Ave, 4th Floor, New York, NY 10017, US
+Year Founded: 2009
+Employment Range: 11-50
+Number of Employees: 11
+Total Investment: $350,000
+Please let me know if you have any further questions.
+
+Best,
+Alex
+
+Alex Peña (she/her)
+Public Relations
+[alex@renthop.com](mailto:alex@renthop.com) 
+
+",,,,,,,
+98,519,recPpqSZacwQmwprR,2021-11-02T02:17:42.000Z,https://mycoop.com/,NYC EDC,usruYurWuYKJoW6LE,jjl295@cornell.edu,Jenny Liu,Passed,"Mycoop is a communication and messaging hub for residential buildings
+",Mycoop Technologies,300000.0,2,2.0,['rec3hVUb0uifxVbD5'],40.7662847,"314 W 56th St, New York, 10019, US",['recdgZhrJxyjqLAb9'],1-10,2013.0,Manhattan,hello@mycoop.com,-73.9843344,"building hub communication platform
+",['Building Systems'],2022-03-02,['Building Systems: Facilities Management'],,,,,,,,,,,
+99,522,recPxt1ZRxE4KAG7t,2022-01-05T20:22:37.000Z,https://makespace.com/,TechNYC,usr2qPunnCed2lMv6,lk545@cornell.edu,Lars Kouwenhoven,Passed,,MakeSpace,142600000.0,,,['rec3fcQklEN5Ghcrr'],40.7094756,"123 William St, New York, NY 10038",['receyB6jWwnjSbV8a'],101-250,2013.0,Manhattan,press@makespace.com,-74.0072955,,['Logistics Systems'],2022-03-03,['Logistics Systems: Remote Storage'],"Address from Builtinnyc.com. Employees and funding from Crunchbase.
+",,,,,,,,,,
+100,523,recPycldncLRaWs7L,2022-01-05T20:22:37.000Z,https://www.clarifai.com/,TechNYC,usr2qPunnCed2lMv6,lk545@cornell.edu,Lars Kouwenhoven,Passed,,Clarifai,100000000.0,,,['recKd0KOVz9BhWPMt'],40.74148510000001,32 West 22nd Street New York NY,['rece3dYUKHXpHhEkU'],11-50,2013.0,Manhattan,info@clarifai.com,-73.9919328,,['Information Systems'],2022-03-03,['Information Systems: Location Intelligence'],"Not all employees in NYC. Employee count includes only those in NYC on LinkedIn. Address from Builtinnyc	
+",,,,,,,,,,
+101,524,recQ6Y7ZW2NI41mJh,2022-01-05T20:22:37.000Z,https://www.casebook.net/,TechNYC,usr2qPunnCed2lMv6,lk545@cornell.edu,Lars Kouwenhoven,Passed,"Software for human services (e.g. foster care, domestic abuse, youth and family services)
+",Casebook PBC,4000000.0,41,41.0,['rec32FBd1SexYCrG5'],40.7446298,"244 5th Ave Suite T248, New York, NY 10001",['recRDZqf1tuLAXPKP'],11-50,2018.0,Manhattan,info@casebook.net,-73.987667,,['Civic Systems'],2022-02-28,['Civic Systems: Human Services'],"Address on Google Maps. Employees and funding on Crunchbase. 
+",,,"employees = 41
+",,,,,,,
+102,532,recQYo7Bf0I36nQv3,2022-01-05T20:22:37.000Z,https://visuwall.com/,TechNYC,usr2qPunnCed2lMv6,lk545@cornell.edu,Lars Kouwenhoven,Passed,"this is a tough one because not sure we want to group this with Numina as a ""public space tech"", it should probably go closer to Intersection
+",VisuWall,1600000.0,,,['recKd0KOVz9BhWPMt'],40.7352174,"68 5th Ave, New York, NY 10011",['rece3dYUKHXpHhEkU'],1-10,2015.0,Manhattan,hello@visuwall.com,-73.9944289,,['Information Systems'],2022-03-03,['Information Systems: Location Intelligence'],"Address from Manhattan CoC. Employees and funding from Crunchbase. 
+",,,,,,,,,,
+103,534,recQbRuy04cNJJ5Wr,2021-10-19T19:54:38.000Z,www.wear.works,,usrzlz6zDGzjGmaEg,mfd64@cornell.edu,Max Dumas,Passed,"Company producing wristbands that provide navigation instructions using vibrations, for hearing/visually impaired.
+",WearWorks,160000.0,,,['recMljynTYjGtXbYr'],40.7246788," 29 Norman Ave, New York, NY 11222, US",['receyB6jWwnjSbV8a'],1-10,2015.0,Brooklyn,hello@wear.works,-73.9548791,,['Mobility Systems'],2022-03-01,['Mobility Systems: Navigation & Wayfinding'],,,,,,,,,Accessibility,,
+104,541,recQv8DtBstkL8bNU,2022-01-05T20:22:37.000Z,https://moved.com/,TechNYC,usr2qPunnCed2lMv6,lk545@cornell.edu,Lars Kouwenhoven,Passed,"Online moving concierge/guide.
+
+",Moved,3200000.0,,,['recTK7H4wtd7cQBhB'],40.7105274,"200 Broadway, New York, NY 10038",['recdgZhrJxyjqLAb9'],11-50,2016.0,Manhattan,,-74.00899369999999,,['Housing Systems'],,['Housing Systems: Resident Services'],"Employees on LinkedIn higher than Crunchbase (1-10)
+",,,,,,,,,,
+105,543,recR0jCjZrXc0ZSH3,2022-01-05T20:22:37.000Z,https://www.mapzen.com/,TechNYC,usr2qPunnCed2lMv6,lk545@cornell.edu,Lars Kouwenhoven,Passed,"Open-source mapping platform
+",Mapzen,,,,['recKd0KOVz9BhWPMt'],40.7441558,"30 W 26th St, 7th Floor, New York NY 10010",['rece3dYUKHXpHhEkU'],1-10,2013.0,Manhattan,support@mapzen.com,-73.9904866,,['Information Systems'],2022-03-03,['Information Systems: Location Intelligence'],"Crunchbase notes they closed down in 2018, but I cannot verify this. AT verified at https://www.wired.com/story/mapzen-shuts-down/
+",,,,2018.0,0.0,,,,,
+106,551,recREE66FOlTWyVWt,2021-10-26T20:40:37.000Z,https://pillar.tech/,,usrCxpuT0RoHLuwkR,ek542@cornell.edu,Eesha Khanna,Passed,"Device that measures environmental metrics in construction sites
+",Pillar Technologies,3400000.0,3,3.0,['rec1HjG8ErJDBzk43'],40.75365730000001,"335 Madison Ave, 4th Floor NY, NY 10017",['recdgZhrJxyjqLAb9'],1-10,2015.0,Manhattan,info@pillar.tech,-73.9782445,,['Construction Systems'],2022-03-02,['Construction Systems: Construction Management'],,,,,,,488505.0,,Construction Site Sensor,,
+107,557,recRZvwCWv2481iVo,2021-10-26T19:35:48.000Z,https://www.upcycles.biz,,usrzlz6zDGzjGmaEg,mfd64@cornell.edu,Max Dumas,Passed,"Human-electric cargo trikes for efficient and sustainable last-mile transport.
+",Upcycles,60000.0,,,['recr9vstr2rJolJDz'],40.7230267," 195B N14th St, Brooklyn, NY, NY 11249, US ",['receyB6jWwnjSbV8a'],1-10,2017.0,Brooklyn,,-73.95537519999999,,"['Logistics Systems', 'Mobility Systems']",,"['Mobility Systems: Vehicles', 'Logistics Systems: Last-Mile']",,?? Couldn't find this company,,,,,,,"Micromobility, Logistics",,
+108,565,recRwX5hI3UQd01kn,2021-11-02T01:03:16.000Z,https://www.joinpropel.com/,,usr9BPdDIhuQuzTkj,atownsend@cornell.edu,Anthony Townsend,Passed,"""Jimmy Chen graduated from Stanford, worked at Facebook and left for a fellowship, hoping to produce software for people in poverty. His start-up, Propel, offers a free app that five million households use to manage their food stamp benefits.""
+",Propel,90000000.0,65,65.0,['rec32FBd1SexYCrG5'],40.6913356,"397 Bridge St Fl 8, Brooklyn, NY 11201",['recRDZqf1tuLAXPKP'],51-100,2014.0,Brooklyn,info@joinpropel.com,-73.985075,,['Civic Systems'],2022-03-02,['Civic Systems: Human Services'],,is this the right company?,,"Hi Anthony, thanks for the inclusion. 
+
+We now have 65 employees. We have raised a total of $90m of capital. The other information is correct.
+
+Thanks,
+Jimmy
+",,,,,,,
+109,567,recS0spkQHszC7lKC,2022-01-05T20:22:37.000Z,https://www.peerspace.com/,TechNYC,usr2qPunnCed2lMv6,lk545@cornell.edu,Lars Kouwenhoven,Passed,"Rent locations for e.g. video shoots or events
+",Peerspace,34800000.0,,,['recXTrODcFXkbucO3'],40.7405773,"115 West 18th Street, Second floor, Peerspace, New York, NY 10011",['recdgZhrJxyjqLAb9'],1-10,2014.0,Manhattan,team@peerspace.com,-73.9957362,,['Building Systems'],2022-03-03,['Building Systems: Property Management'],"Address on Google Maps (large presence in SF too)
+",,,,,,,,,,
+110,569,recS4OULIrx51EeKD,2021-10-26T20:36:50.000Z,https://www.ridecircuit.com/,,usrzlz6zDGzjGmaEg,mfd64@cornell.edu,Max Dumas,Passed,"Circuit (Formerly The Free Ride) is an all-electric, local shuttle service. Business focus appears to be on providing an ads platform on top of the shuttles.
+",Circuit,2300000.0,,,['recXHKdGEiWcRgmHo'],40.7042791,"20 Jay St #312, Brooklyn, NY 11201",['receyB6jWwnjSbV8a'],101-250,2011.0,Brooklyn,info@ridecircuit.com,-73.9868096,,['Mobility Systems'],2022-03-02,['Mobility Systems:  Shared mobility'],,,,,,,,,"EV, Public Transportation, Shared Mobility",,
+111,579,recSJcxhfWd0wKjNO,2022-01-05T20:22:37.000Z,https://www.blueapron.com/,TechNYC,usr2qPunnCed2lMv6,lk545@cornell.edu,Lars Kouwenhoven,Passed," Meal service
+",Blue Apron,199500000.0,,,['recRmZEGi4RvhgsfE'],40.7083474,"28 Liberty St 28th FL, New York, NY 10005",['recEhjg8dnMkICv2w'],500+,2012.0,Manhattan,contact@blueapron.com,-74.0088549,,['Food Systems'],2022-03-03,['Food Systems:  Delivery'],"CrunchBase + Google Maps
+",,,,,,,,,,
+112,586,recSlCJHS3CICJ8Nw,2021-10-11T13:43:55.000Z,https://boweryfarming.com/,,usrirgB6rl9ulQW3Z,pa293@cornell.edu,Preksha Agarwal,Passed,"Bowery Farming uses vision systems, automation technology, and machine learning to monitor plants and their growth.
+",Bowery Farming,638200000.0,378,378.0,['rec7zrOknjV6JR9yL'],40.7457851,"151 W 26TH ST, 12TH FLOOR, NEW YORK, NY 10001",['recEhjg8dnMkICv2w'],251-500,2015.0,Manhattan,contact@boweryfarming.com,-73.9932445,,['Food Systems'],2022-03-01,['Food Systems: Urban/Indoor Farming'],"crunchbase
+",,,,,,,,,,
+113,599,recTP6e1loLJstq5Z,2022-01-27T19:36:14.000Z,https://www.easyaerial.com/about-us/,,usrzlz6zDGzjGmaEg,mfd64@cornell.edu,Max Dumas,Passed,,Easy Aerial,11200000.0,,,['recQgYIrFeJrCevUk'],40.6985551," 141 Flushing Ave, Building 77, Suite 610, Brooklyn, New York 11205, US ",['receyB6jWwnjSbV8a'],51-100,2014.0,Brooklyn,info@easyaerial.com,-73.9712029,,['Logistics Systems'],2022-03-03,['Logistics Systems: Drones'],,,,,,,,,,,
+114,609,recTsqNyCpX8OmIXX,2021-10-26T19:32:17.000Z,https://cleantech-hub.dk/new-york/,NYC EDC,usr9BPdDIhuQuzTkj,atownsend@cornell.edu,Anthony Townsend,Passed,"Connecting New York with Danish Cleantech solutions and expertise
+",Danish Cleantech Hub,,4,4.0,['recg3IwW4njNc0Qdp'],40.6929116,"370 Jay Street, 7th floor, Brooklyn, NY, 11201",['recHuk1pvKzYmvRFG'],1-10,2013.0,Manhattan,lfk@di.dk,-73.98746129999999,,['Innovation Systems'],2022-03-01,['Innovation Systems: Accelerators & Incubators'],"website team page	
+",Louis Funder,US General Manager,,,,,,,,
+115,617,recUGh1sWT40xHuQB,2022-01-05T20:22:37.000Z,https://www.hoplitepower.com/	,TechNYC,usr2qPunnCed2lMv6,lk545@cornell.edu,Lars Kouwenhoven,Passed,"Portable charging kiosks
+",Hoplite Power,835500.0,2,2.0,['rec31GwmRDlkBUANu'],40.745103,"29-10 Thomson Avenue  NYDesigns C760 Ste. #20  Long Island City, NY 11101",['recoxnv8QKuu7vlwx'],1-10,2014.0,Queens,jordan@hoplitepower.com,-73.93759299999999,,['Energy Systems'],2022-03-03,['Energy Systems: Grid'],"Employee range and count: LinkedIn. Total investment - angel.co / pitch book.com (might be outdated as last round mentioned was in 2017 on angel.co; some extra info available on pitch book but it is blurred out).
+Confused about subcategory - Does not fit under any of the current ones. 
+",Jordan Mayerson,CEO,,,,,,,,
+116,620,recUNMMph8QlhaoCV,2022-01-06T21:48:06.000Z,http://www.intersection.com,,usrirgB6rl9ulQW3Z,pa293@cornell.edu,Preksha Agarwal,Passed,"runs LinkNYC network of kiosks
+",Intersection,150000000.0,172,172.0,['recrSVGURn4rHAspL'],40.7526964,"10 Hudson Yards, fl 26, New York, NY 10001",['recRDZqf1tuLAXPKP'],101-250,2015.0,Manhattan,hello@intersection.com,-74.0011033,urban marketing in public,['Civic Systems'],2022-03-03,['Civic Systems: Public Space Tech'],"growjo	
+",,,,,,,,,,
+117,627,recUhTqmcjCBvuk49,2022-01-05T20:22:37.000Z,https://doorkee.com/,TechNYC,usr2qPunnCed2lMv6,lk545@cornell.edu,Lars Kouwenhoven,Passed,"ok because it focuses on urban living
+",Doorkee,5900000.0,,,['recpqZAbOMUsb5rTl'],40.7539115,"757 3rd Ave, New York, NY",['recdgZhrJxyjqLAb9'],11-50,2017.0,Manhattan,support@doorkee.com,-73.971662,,['Housing Systems'],2022-03-03,"['Housing Systems: Listings, Referral & Brokerage']","Address on Builtinnyc	
+",,,,,,,,,,
+118,628,recUi2FE5JV2KZp0X,2021-11-02T16:28:53.000Z,https://newlab.com/,NYC EDC,usr9BPdDIhuQuzTkj,atownsend@cornell.edu,Anthony Townsend,Passed,"We build companies. We bring founders together. We pair experts with industry and civic leaders and use our shared resources to power entrepreneurs. We are relentless in the pursuit of solving systemic challenges with frontier technologies.
+",New Lab,3000000.0,84,84.0,['recg3IwW4njNc0Qdp'],40.6992184,"19 Morris Ave, Brooklyn, NY 11205",['recHuk1pvKzYmvRFG'],51-100,2016.0,Brooklyn,shaun@newlab.com,-73.9739135,"hardware-focused shared workspace, research lab, and hatchery for socially-oriented tech manufacturing",['Innovation Systems'],2022-03-02,['Innovation Systems: Accelerators & Incubators'],,Shaun Stewart,CEO,,,,,,,,
+119,634,recUzCGXnzCU8yZjr,2022-01-05T20:22:37.000Z,https://ridewithvia.com/tag/nyc/,TechNYC,usr2qPunnCed2lMv6,lk545@cornell.edu,Lars Kouwenhoven,Passed,,Via Transportation,777000000.0,,,['recFdD4KnUimyaKUC'],40.7200313,"10 Crosby St, New York, NY 10013",['receyB6jWwnjSbV8a'],500+,2012.0,Manhattan,info@ridewithvia.com,-74.0004721,,['Mobility Systems'],2022-03-03,['Mobility Systems: TransitTech'],,,,,,,,,,,
+120,650,recW110K3JDwpQfQy,2022-01-05T20:22:37.000Z,https://www.vegafactor.com/,TechNYC,usr2qPunnCed2lMv6,lk545@cornell.edu,Lars Kouwenhoven,Passed,"remote workplace design?
+",Vega Factor,,,,['recVC3ZXCuU3trkwt'],40.7555104,"2 W 45th St, New York, NY 10036",['rec5CKA579ehIVo7b'],11-50,2015.0,Manhattan,,-73.9802022,,['Labor Systems'],,['Labor Systems: Hybrid Solutions'],"Address on website; no funding information
+",,,,,,,https://www.vegafactor.com/contact-us,,,
+121,654,recWB4OpqpwzkhRQR,2022-01-05T20:22:37.000Z,Microsoft - Official Home Page,TechNYC,usr9BPdDIhuQuzTkj,atownsend@cornell.edu,Anthony Townsend,Passed,"in same cat as google, need to create a new one, or separate out their urbantech functions? at one point their civictech group was here
+",Microsoft Corporation,,,,['recUwmBtQkN1prgeh'],,"11 Times Sq. Fl 7, 8th Ave New York, NY 10014",['recRDZqf1tuLAXPKP'],500+,1975.0,Manhattan,,,,['Civic Systems'],,['Civic Systems: GovTech'],,,,,,,,,,,
+122,655,recWDqQnJINUo18Gy,2021-10-26T19:30:37.000Z,https://ufl.nyc/,NYC EDC,usr9BPdDIhuQuzTkj,atownsend@cornell.edu,Anthony Townsend,Passed,"CleanTech incubator and academic program housed within NYU's Tandon School
+",Urban Future Lab,,8,8.0,['recg3IwW4njNc0Qdp'],40.6929116,"370 Jay Street, 7th Floor Brooklyn, NY 11201",['recHuk1pvKzYmvRFG'],1-10,2009.0,Brooklyn,info@ufl.nyc,-73.98746129999999,,['Innovation Systems'],2022-03-01,['Innovation Systems: Accelerators & Incubators'],"website lists team members
+
+",,,,,,,,"Incubator, Clean Tech",,
+123,658,recWJzA8K55Nf3vsq,2021-11-02T01:44:23.000Z,https://coursehorse.com/,,usr9BPdDIhuQuzTkj,atownsend@cornell.edu,Anthony Townsend,Passed,"CourseHorse is a provider of a learning platform used to centralize the learning opportunities—""local"" courses.
+",CourseHorse,4000000.0,,,['recwxuOhp0qYWjAzD'],40.7382752,"220 E 23rd St #500, New York, NY",['reca3rMDOoKHI3hPh'],11-50,2011.0,Manhattan,hello@coursehorse.com,-73.9822849,,['Education Systems'],2022-03-02,['Education Systems: Open Education'],"crunchbase,but website has a DC address
+
+
+",,,,,,,,MOOC,,
+124,662,recWXjF8BitjQvusQ,2022-01-31T15:13:27.000Z,https://actuate.ai,,,,,Passed,,Actuate,10000000.0,,,['rec2dmT4omxI34ORF'],,"1216 Broadway Suite 316, New York, NY 10001",['recqVXmif5koh0T0u'],11-50,2018.0,Manhattan,info@actuate.ai,,,['Public Safety Systems'],2022-03-03,['Public Safety: Monitoring'],,,,,,,,,,,
+125,678,recXYmTa3xGs0Zi0f,2021-11-02T18:57:29.000Z,www.transfernation.org,,usrirgB6rl9ulQW3Z,pa293@cornell.edu,Preksha Agarwal,Passed,"raeri is an alternative to trash hauling. We take usable items that were headed to the trash from retailers, commercial & residential buildings, production sets and events, and upcycle these items to people, programs, and marketplaces where they can be utilized.
+",Transfernation/Raeri,,5,5.0,['recsZ3Zc9dgmOn2NC'],40.7320147,"93 4TH Ave New York, NY 10003",['recb7WeB0tStkTUq8'],1-10,2016.0,Manhattan,,-73.9897567,,['Waste Systems'],,['Waste Systems: Diversion'],"linkedin	
+",Hannah Dehradunwala,Founder and CEO,,,,,https://raeri.co/contact,,,
+126,681,recXf60mKk05Sm0Xc,2022-01-05T20:22:37.000Z,https://www.tesla.com/,TechNYC,usr9BPdDIhuQuzTkj,atownsend@cornell.edu,Anthony Townsend,Passed,"they do seem to be hiring some engineers for self-driving in NYC	https://g.co/kgs/i3cz2g
+",Tesla,,,,['recBK2rW9pSktPsk8'],,,['receyB6jWwnjSbV8a'],500+,2003.0,Manhattan,,,,['Mobility Systems'],,['Mobility Systems: Vehicles'],"Investment set to zero to reflect branch office. showrooms in Meatpacking and Red Hook, not sure if office
+",,,,,,,,,,
+127,683,recXh1areQZIa87UQ,2021-10-19T16:44:20.000Z,www.venturespace.nyc,NYC EDC,usruYurWuYKJoW6LE,jjl295@cornell.edu,Jenny Liu,Passed,"Provides a tool that identifies companies that will soon be looking for new office space
+",VentureSpace,,3,3.0,['recXTrODcFXkbucO3'],40.754045,"315 W 36th St, New York, NY 10018, US",['recdgZhrJxyjqLAb9'],1-10,2018.0,Manhattan,team@venturespace.nyc,-73.9933586,"for real estate owners/brokers: connect office demand with potential tenants. seems really small
+",['Building Systems'],2022-03-01,['Building Systems: Property Management'],"can't find investment #
+",Ryan Babikian,,,,,,,,,
+128,699,recY5CIVLDHPE3jrk,2021-11-02T02:11:33.000Z,https://oyasolar.com,,usrCxpuT0RoHLuwkR,ek542@cornell.edu,Eesha Khanna,Passed,"OYA Solar develops large-scale solar projects that brings cost-effective energy and widespread economic benefits to local communities.
+",Oya Solar,35000000.0,34,34.0,['recDZbMMMp5QJXXpQ'],40.754455,"230 Park Ave 3rd Floor West, Suite 443 New York, NY 10169",['recoxnv8QKuu7vlwx'],11-50,2009.0,Manhattan,info@oyasolar.com,-73.9760113,,['Energy Systems'],2022-03-02,['Energy Systems: Renewables'],"Employee range and count: LinkedIn. Funding source: https://www.cbinsights.com/company/oya-solar/financials. 
+",,,,,,3350000.0,,"Solar Development, Community Solar",,
+129,703,recYRocRU4HE56SiY,2022-01-05T20:22:37.000Z,https://futurelabs.nyc/programs/ainexuslab,TechNYC,usr9BPdDIhuQuzTkj,atownsend@cornell.edu,Anthony Townsend,Passed,"AI accelerator no urbantech focus, but lots of urbantech companies have been thru, probably tied to CUSP somehow, so pass
+",AI NexusLab,,1,1.0,['recg3IwW4njNc0Qdp'],40.6929116,"370 Jay Street, 7th Floor Brooklyn, NY 11201",['recHuk1pvKzYmvRFG'],1-10,2016.0,Brooklyn,hello@futurelabs.nyc,-73.98746129999999,,['Innovation Systems'],2022-03-03,['Innovation Systems: Accelerators & Incubators'],"based on website	
+",,,,,,,,,,
+130,705,recYTmIq9o99kjlh2,2022-01-05T20:22:37.000Z,https://www.ubimo.com/,TechNYC,usr2qPunnCed2lMv6,lk545@cornell.edu,Lars Kouwenhoven,Passed,,Ubimo,9500000.0,,,['recKd0KOVz9BhWPMt'],40.7040662,"85 Broad St, New York, NY 10004",['rece3dYUKHXpHhEkU'],51-100,2012.0,Manhattan,info@ubimo.com,-74.01114559999999,,['Information Systems'],2022-03-03,['Information Systems: Location Intelligence'],"Address on website.
+",,,,,,,,,,
+131,706,recYbqTQXQfJpTMM2,2022-01-05T20:22:37.000Z,https://transitwireless.com/,TechNYC,usr2qPunnCed2lMv6,lk545@cornell.edu,Lars Kouwenhoven,Passed,"cellular for subways
+",Transit Wireless,35000000.0,,,['recIVqNPj8v27K5yO'],40.7510892,"1350 Broadway, New York, NY 10018",['recdgZhrJxyjqLAb9'],51-100,2005.0,Manhattan,media@transitwireless.com,-73.9873064,,['Building Systems'],2022-03-03,['Building Systems: Infrastructure & Asset Management'],,,,,,,,https://transitwireless.com/contact-us/,,,
+132,707,recYiFkCm2BaSGRBf,2021-10-26T15:58:03.000Z,https://www.greenmap.org,NYC EDC,usr9BPdDIhuQuzTkj,atownsend@cornell.edu,Anthony Townsend,Passed,"Collaborative, community-made maps for sustainable community development.
+",Green Map System,,2,2.0,['recSgHDqDvtFe7D6x'],40.721129,"292 E 3rd St #1a, New York, NY 10009",['recRDZqf1tuLAXPKP'],1-10,1995.0,Manhattan,info@greenmap.org,-73.97978069999999,,['Civic Systems'],2022-03-01,['Civic Systems: Data + Media Platforms'],,,,"hi Anthony, a few corrections below, thank you! 
+
+
+Wendy Brawer, director
+
+Green Map System
+[GreenMap.org](http://greenmap.org/) + [NYC](http://greenmapnyc.org/)
+
++ regenerative projects
+[WendyBrawer.com](http://wendybrawer.com/)
+
+[web@greenmap.org](mailto:web@greenmap.org)
++1 212-674-1631
+",,,,,,,
+133,714,recZ0pNWxAv3sHjiy,2022-01-05T20:22:37.000Z,https://www.jabbrrbox.com/,TechNYC,usrirgB6rl9ulQW3Z,pa293@cornell.edu,Preksha Agarwal,Passed,"app for mobile workers to navigate city
+",Jabbrrbox,,6,6.0,['recVC3ZXCuU3trkwt'],40.7441281,"79 Madison Ave, 8th floor, New York City, New York 10016",['rec5CKA579ehIVo7b'],1-10,2015.0,Manhattan,info@jabbrrbox.com,-73.9853114,,['Labor Systems'],2022-03-03,['Labor Systems: Hybrid Solutions'],,,,,,,,,,,
+134,717,recZLRbp7IIklWbfy,2022-01-07T15:45:54.000Z,https://seabenergy.com/about-seab/,,usr9BPdDIhuQuzTkj,atownsend@cornell.edu,Anthony Townsend,Passed,"anaerobic digesters, N Am office is in NYC
+",SEAB Energy,2877000.0,12,12.0,['recDZbMMMp5QJXXpQ'],40.75555809999999,"800 Third Avenue, Suite 2800, New York, NY, 10022",['recoxnv8QKuu7vlwx'],11-50,2018.0,Manhattan,finance@seabenergy.com,-73.9713436,,['Energy Systems'],2022-03-03,['Energy Systems: Renewables'],"Employee range + count: LinkedIn
+",,,,,,,,,,
+135,732,reca0N1YDzGGL61fj,2021-10-19T20:51:39.000Z,https://www.energyhub.com/,,usrCxpuT0RoHLuwkR,ek542@cornell.edu,Eesha Khanna,Passed,"Service provider for a variety of distributed energy resource management system services
+",EnergyHub,33100000.0,84,84.0,['rec31GwmRDlkBUANu'],40.6875012,"41 Flatbush Ave, Suite 400A Brooklyn, New York 11217",['recoxnv8QKuu7vlwx'],51-100,2007.0,Brooklyn,info@energyhub.com,-73.9796053,,['Energy Systems'],2022-03-01,['Energy Systems: Grid'],"Employee count and range: LinkedIn. Total investment: Crunchbase.
+",,,,,,,,"Distributed Energy, Grid Optimization, Demand Response",,
+136,738,recaGIRygLmkYVIyO,2021-10-19T21:19:13.000Z,www.sealed.com,,usrCxpuT0RoHLuwkR,ek542@cornell.edu,Eesha Khanna,Passed,"Company focused on retrofitting buildings with new HVAC systems to increase efficiency.
+",Sealed,38000000.0,15,15.0,['recxoYfGUZEqppDaZ'],40.7512817,"22 W 38th St., 10th Floor, New York, NY 10018, United States",['recoxnv8QKuu7vlwx'],11-50,2012.0,Manhattan,hello@sealed.com,-73.9839901,"HVAC, weatherproofing, and smart home tech to keep houses warm",['Energy Systems'],2022-03-01,['Energy Systems: Buildings'],,,,,,,4940000.0,,"Building Performance, Retrofit",,
+137,740,recaKe4deU53RT8qK,2021-10-26T19:28:35.000Z,https://www.urbint.com,,usruYurWuYKJoW6LE,jjl295@cornell.edu,Jenny Liu,Passed,"AI-powered incident prevention solutions
+",Urbint,109000000.0,,,['recIVqNPj8v27K5yO'],40.7526486,"1270 Ave of the Americas, 7th Fl- 1047 New York, NY 10020",['recdgZhrJxyjqLAb9'],51-100,2015.0,Manhattan,hello@urbint.com,-73.9739103,,['Building Systems'],2022-03-01,['Building Systems: Infrastructure & Asset Management'],,,,,,,,,Incident Prevention,,
+138,753,recamIQ4xnjL5YKMC,2022-01-05T20:22:37.000Z,https://www.eccoid.com/,TechNYC,usrzlz6zDGzjGmaEg,mfd64@cornell.edu,Max Dumas,Passed,"Device design consulting firm. Appears to have done some work in UT-related stuff
+",ECCO Design,,,,['rec7W5e8wrCX2OVyN'],40.7404411,"675 Hudson Street, Suite 3S, New York, NY 10014, US",['rece3dYUKHXpHhEkU'],11-50,1989.0,Manhattan,contact@eccoid.com,-74.00543619999999,,['Information Systems'],2022-03-02,['Information Systems: IoT & Robotics'],"LinkedIn
+",,,,,,,,,,
+139,757,recaunsobX0PLoFzU,2021-11-02T16:19:33.000Z,www.park-you.com,NYC EDC,usrzlz6zDGzjGmaEg,mfd64@cornell.edu,Max Dumas,Passed,"ParkYou!'s goal is enable you to instantaneously find a great street parking spot whenever you need one.
+",ParkYou!,,,,['receBXbN6odOQUuS7'],40.808119," 267 W 122nd St, New York, 10027, US ",['receyB6jWwnjSbV8a'],1-10,2018.0,Manhattan,,-73.95180239999999,,['Mobility Systems'],,['Mobility Systems: Traffic informatics'],,,,,,,,https://www.park-you.com/contact,Curb Management,,
+140,759,recavWeQW2HXS0VdZ,2022-01-05T20:22:37.000Z,https://www.builtbygirls.com/,TechNYC,usrzlz6zDGzjGmaEg,mfd64@cornell.edu,Max Dumas,Passed,"Professional network helping women and non-binary enter the tech workforce.
+",#BUILTBYGIRLS,,,,['recC6fzY1qYFMz728'],,,['rec5CKA579ehIVo7b'],1-10,2014.0,Manhattan,info@builtbygirls.com,,,['Labor Systems'],2022-03-02,['Labor Systems: Workforce Development'],"AT: appears to be an all-volunteer organization so adjusting # of jobs accordingly to lowest. JL: Wikipedia says that they're owned by Yahoo. AT: i think we can leave at 1-10 for now, it doesnt look dead but probably has a skeleton staff. try to find a contact email for the survey
+",,,,,,,,,,
+141,763,recbDiz6MjDamamIK,2021-10-19T17:48:13.000Z,https://www.rubicon.com,,usrirgB6rl9ulQW3Z,pa293@cornell.edu,Preksha Agarwal,Passed,"Smart waste and recycling solutions to understand, optimise and reduce waste for governments and private companies
+",Rubicon Global,222700000.0,593,593.0,['rec2TASDEPEVAhNDY'],40.7535575,"335 Madison Avenue New York, NY 10017",['recb7WeB0tStkTUq8'],251-500,2008.0,Manhattan,media@rubicon.com,-73.9781361,,['Waste Systems'],2022-03-01,['Waste Systems: Sanitation Services'],"crunchbase, website
+",,,,,,,,,,
+142,765,recbG0C7oJedAmAsb,2022-01-05T20:22:37.000Z,https://slicelife.com/,TechNYC,usrzlz6zDGzjGmaEg,mfd64@cornell.edu,Max Dumas,Passed,"The definitive pizza delivery app
+",Slice,125000000.0,,,['recRmZEGi4RvhgsfE'],40.7394189,"902 Broadway, 19th Floor, New York, NY 10010, US",['recEhjg8dnMkICv2w'],500+,2010.0,Manhattan,press@slicelife.com,-73.9895449,,['Food Systems'],2022-03-02,['Food Systems:  Delivery'],"Crunchbase, Linkedin
+",,,,,,,,,,
+143,768,recbTnmm2TrPmTM7X,2022-01-05T20:22:37.000Z,https://www.dojo.co/,TechNYC,usrzlz6zDGzjGmaEg,mfd64@cornell.edu,Max Dumas,Passed,"Company providing tools for intelligently managing office spaces with a focus on returning after COVID.
+",Dojo,,,,['recVC3ZXCuU3trkwt'],40.7134166,"7 World Trade Center, New York, US",['rec5CKA579ehIVo7b'],1-10,2016.0,Manhattan,dan@dojo.co,-74.0119311,,['Labor Systems'],2022-03-02,['Labor Systems: Hybrid Solutions'],,Daniel Goldstern,CEO,,,,,,,,https://www.linkedin.com/in/dgoldstern/
+144,776,recbiVW6RG7KJyaYy,2021-10-19T19:06:02.000Z,https://nearspacelabs.com/,,usr9BPdDIhuQuzTkj,atownsend@cornell.edu,Anthony Townsend,Passed,"Manufactures stratospheric robots for image capture. Funding # verified by AT 2022.01.06
+",Near Space Labs,16800000.0,18,18.0,['recKd0KOVz9BhWPMt'],40.6985551,"141 Flushing Ave Suite 1301, Brooklyn, NY 11205",['rece3dYUKHXpHhEkU'],11-50,2016.0,Brooklyn,info@nearspacelabs.com,-73.9712029,aerial imagery and earth observation company for biz and gov,['Information Systems'],2022-03-01,['Information Systems: Location Intelligence'],,,,,,,,,,,
+145,780,recbuifRGPjBVw8Y1,2022-01-05T20:22:37.000Z,https://www.connectedfuturelabs.com/,TechNYC,usrzlz6zDGzjGmaEg,mfd64@cornell.edu,Max Dumas,Passed,"Consulting firm specializing in robotics and IoT
+",Connected Future Labs,,,,['rec7W5e8wrCX2OVyN'],,"7014 13TH Ave Ste 202 Brooklyn, NY, 11228-1604 United States",['rece3dYUKHXpHhEkU'],1-10,2016.0,Brooklyn, info@connectedfuturelabs.com,,,['Information Systems'],2022-03-02,['Information Systems: IoT & Robotics'],"LinkedIn. Cannot find address. JL: https://www.dnb.com/business-directory/company-profiles.connected\_future\_labs\_llc.617f07a7f68644dbd014908ee9d96b73.html
+",,,,,,,,,,
+146,787,reccKRT44Clv5L2mu,2021-10-19T16:42:28.000Z,https://techincubatorqc.com,NYC EDC,usr9BPdDIhuQuzTkj,atownsend@cornell.edu,Anthony Townsend,Passed,"Startup incubator focusing on tech, with the goal of accelerating economic development in Queens
+",Tech Incubator at Queens College,,25,25.0,['recg3IwW4njNc0Qdp'],40.7369717,"65-30 Kissena Blvd, queens, NY, 11367",['recHuk1pvKzYmvRFG'],11-50,2017.0,Queens,Inquiry@techincubatorqc.com,-73.8151735,,['Innovation Systems'],2022-03-01,['Innovation Systems: Accelerators & Incubators'],"25 ""people"" listed on page
+",,,,,,,,,,
+147,789,reccPeNFtoG1DZvbH,2022-01-05T20:22:37.000Z,https://nextdaybetter.com/about/,TechNYC,usrirgB6rl9ulQW3Z,pa293@cornell.edu,Preksha Agarwal,Passed,"story telling platform for immigrants. unclear how tech is utilized and if this is focused in cities.
+","NextDayBetter, Inc.",,9,9.0,['recSgHDqDvtFe7D6x'],40.7183105,"394 Broadway 5th Floor, New York, NY 10013",['recRDZqf1tuLAXPKP'],1-10,2014.0,Manhattan,curious@nextdaybetter.com,-74.002314,,['Civic Systems'],2022-03-02,['Civic Systems: Data + Media Platforms'],"website, linkedin
+
+",,,,,,,,,,
+148,792,recck19CqMzmHDLVX,2022-01-05T20:22:37.000Z,https://www.kickstarter.com/ ,TechNYC,usrirgB6rl9ulQW3Z,pa293@cornell.edu,Preksha Agarwal,Passed,"Kickstarter is a crowdfunding platform for creative projects such as movies, music, art, theater, games, comics, design, and photography.
+",Kickstarter,10000000.0,231,231.0,['recE9ehRLZIohhipt'],40.7303597,"58 Kent St, Brooklyn, NY 11222",['recRDZqf1tuLAXPKP'],101-250,2007.0,Brooklyn,press@kickstarter.com,-73.9586928,,['Civic Systems'],2022-03-02,['Civic Systems: Engagement'],"crunchbase
+",,,,,,,,,,
+149,793,recckK1KSf7eonkW8,2022-01-05T20:22:37.000Z,https://eevo.com/,TechNYC,usrirgB6rl9ulQW3Z,pa293@cornell.edu,Preksha Agarwal,Passed,"unclear urban focus
+
+",EEVO,2200000.0,5,5.0,['recCYxgacqCMvP8Nb'],40.7040297,"20 Jay St #214, Brooklyn, NY 11201",['recHuk1pvKzYmvRFG'],1-10,2014.0,Brooklyn,questions@eevo.com,-73.9867893,,['Innovation Systems'],2022-03-02,"['Innovation Systems:  Design, Engineering, and Planning Services']","crunchbase
+",,,,,,,,,,
+150,799,recd1wZx73lN4qc9q,2021-10-11T13:57:29.000Z,https://getbento.com/,,usrirgB6rl9ulQW3Z,pa293@cornell.edu,Preksha Agarwal,Passed,"Company being Squarespace tailored specifically for restaurants. BentoBox empowers restaurants to own their presence, profits, and relationships, directly through their website.
+
+",BentoBox,52400000.0,221,221.0,['recVl5jyxBBi57JrF'],40.7246702,"584 Broadway, New York, NY 10012",['recEhjg8dnMkICv2w'],101-250,2013.0,Manhattan,hello@getbento.com,-73.99722229999999,,['Food Systems'],2022-03-01,['Food Systems: Alt-commerce'],"crunchbase
+",,,,,,,,,,
+151,803,recd6aelkiGR7QaMG,2021-11-02T18:58:22.000Z,https://www.blueprintpower.com/,,usrCxpuT0RoHLuwkR,ek542@cornell.edu,Eesha Khanna,Passed,"Blueprint Power is an NYC-based tech company whose mission is to accelerate the growth and financial sustainability of distributed, intelligent clean energy by helping regional groups of real estate companies transform their portfolios into power plants. Acquired by BP.
+",Blueprint Power,4000000.0,18,18.0,['recxoYfGUZEqppDaZ'],40.7629891,"600 Madison Ave, 12th Floor, New York NY 10022",['recoxnv8QKuu7vlwx'],11-50,2017.0,Manhattan,info@blueprintpower.com,-73.9723831,"for real estate owners: turn real estate into power sources to modernize electricity grid into a power network
+",['Energy Systems'],2022-03-02,['Energy Systems: Buildings'],,Robyn Beavers,,,,,,,Distributed Energy,,
+152,805,recdBVenNYFQTFAAe,2022-01-05T20:22:37.000Z,https://www.fitnescity.com/,TechNYC,usruYurWuYKJoW6LE,jjl295@cornell.edu,Jenny Liu,Passed,"builds wellness tests
+",Fitnescity,,,,['rec1Fb2i8tWTBB8wH'],40.7675326,"3 Columbus Circle, New York, NY 10019",['reca3rMDOoKHI3hPh'],11-50,2018.0,Manhattan,contact@fitnescity.com,-73.98220239999999,,['Health Systems'],2022-03-02,['Health Systems: Social Care'],"seed company with no publicy announced funding yet except from an NFL linebacker
+
+",,,,,,,,,,
+153,808,recdFHNeNu6rRaIm0,2021-10-19T18:40:28.000Z,https://peakpowerenergy.com/,,usrCxpuT0RoHLuwkR,ek542@cornell.edu,Eesha Khanna,Passed,"Company trying to enhance building efficiency by providing smart optimization of building systems. Also focusing on utilities and larger scale grid optimization.
+",Peak Power,25800000.0,56,56.0,['recxoYfGUZEqppDaZ'],40.75365730000001,"335 Madison Ave, 4th Floor New York, NY 10017",['recoxnv8QKuu7vlwx'],51-100,2015.0,Manhattan,,-73.9782445,AI-automated platform for energy optimization in buildings,['Energy Systems'],,['Energy Systems: Buildings'],,,,,,,6700000.0,https://peakpowerenergy.com/contact-us,"Building Performance, Grid Optimization",,
+154,820,recdvsjjT9dSw76zQ,2022-01-05T20:22:37.000Z,https://reflexions.co/,TechNYC,usrirgB6rl9ulQW3Z,pa293@cornell.edu,Preksha Agarwal,Passed,"designed the OMNY transit payment experience
+",Reflexions,,,,['recCYxgacqCMvP8Nb'],40.7458503,"276 Fifth Avenue, Suite 704 #914, New York, NY 10001",['recHuk1pvKzYmvRFG'],11-50,1999.0,Manhattan,hello@reflexions.co,-73.98673289999999,,['Innovation Systems'],2022-03-02,"['Innovation Systems:  Design, Engineering, and Planning Services']","crunchbase	
+",,,,,,,,,,
+155,829,receCPRAAgXOWc9t5,2022-01-05T20:22:37.000Z,https://www.sidewalklabs.com/,TechNYC,usr2qPunnCed2lMv6,lk545@cornell.edu,Lars Kouwenhoven,Passed,"Sidewalk Labs works with cities to build products that address urban problems.
+",Sidewalk Labs,,174,174.0,['rec9YdIfEpeflVrvZ'],40.7525286,"10 Hudson Yards, 26th Floor, New York, NY 10001",['recHuk1pvKzYmvRFG'],101-250,2014.0,Manhattan,press@sidewalklabs.com,-74.00111799999999,,['Innovation Systems'],2022-03-02,['Innovation Systems: Investing'],,,,,,,17700000.0,,,,
+156,830,receD6zw7vSG8MnFN,2021-10-19T15:57:30.000Z,https://www.smartergridsolutions.com/,,usrCxpuT0RoHLuwkR,ek542@cornell.edu,Eesha Khanna,Passed,"Company building distributed energy resource management systems with a focus on net-zero. Acquired by Mitsubishi.
+",Smarter Grid Solutions,8000000.0,148,148.0,['rec31GwmRDlkBUANu'],40.75365730000001,"335 Madison Avenue, 4th Floor, New York NY 10017",['recoxnv8QKuu7vlwx'],101-250,2008.0,Manhattan,info@smartergridsolutions.com,-73.9782445,,['Energy Systems'],2022-03-01,['Energy Systems: Grid'],,,,,,,31100000.0,,"Grid Optimization, Distributed Energy",,
+157,832,receH1HfspJvuLCc7,2022-01-05T20:22:37.000Z,https://www.makerbot.com/,TechNYC,usrirgB6rl9ulQW3Z,pa293@cornell.edu,Preksha Agarwal,Passed,"i think this is too off-topic. AT moved here because its robots and 3-d printing is VIP in IoT/urban tech hardware prototyping
+",Makerbot,10000000.0,,,['rec7W5e8wrCX2OVyN'],40.6931605,"1 MetroTech Center, Brooklyn, NY 11201",['rece3dYUKHXpHhEkU'],500+,2009.0,Brooklyn,contact@makerbot.com,-73.98677270000002,,['Information Systems'],2022-03-02,['Information Systems: IoT & Robotics'],,,,,,,28100000.0,,,,
+158,833,receRbmJ896ClLKue,2022-01-05T20:22:37.000Z,https://www.itsacheckmate.com/,TechNYC,usrirgB6rl9ulQW3Z,pa293@cornell.edu,Preksha Agarwal,Passed,,ItsACheckmate.com Inc.,3000000.0,90,90.0,['recRmZEGi4RvhgsfE'],40.7596752,"1113 York Ave, New York, NY 10065",['recEhjg8dnMkICv2w'],51-100,2016.0,Manhattan,,-73.9595399,,['Food Systems'],,['Food Systems:  Delivery'],"growjo
+",,,,,,22900000.0,,,,
+159,835,receSAcmGCmphf9HC,2022-01-05T20:22:37.000Z,Nowsta Home Page,TechNYC,usrirgB6rl9ulQW3Z,pa293@cornell.edu,Preksha Agarwal,Passed,"not sure there is a local angle here
+",Nowsta,54700000.0,48,48.0,['recKZR0IOkFvsMhPI'],40.7040297,"20 Jay St Ste 218 Brooklyn, NY, 11201-8370",['rec5CKA579ehIVo7b'],11-50,2014.0,Brooklyn,support@nowsta.com,-73.9867893,,['Labor Systems'],2022-03-02,['Labor Systems:  Local Hiring'],,,,,,,,,,,
+160,838,recenloRSeEBBQtHf,2022-01-05T20:22:37.000Z,https://www.placeiq.com/,TechNYC,usrirgB6rl9ulQW3Z,pa293@cornell.edu,Preksha Agarwal,Passed,"provides location intelligence services that enable advertisers to reach mobile brand audiences for marketing activities.
+",PlaceIQ,52000000.0,76,76.0,['recKd0KOVz9BhWPMt'],40.7539141,"1065 6th Ave, New York, NY 10018",['rece3dYUKHXpHhEkU'],101-250,2010.0,Manhattan,info@placeiq.com,-73.9853115,,['Information Systems'],2022-03-02,['Information Systems: Location Intelligence'],"which address is correct?
+1732 1st Ave #20951, New York, NY 10128
+1065 6th Ave, New York, NY 10018
+",,,,,,,,,,
+161,841,recezPLjp2RupF9KV,2021-10-19T18:44:53.000Z,https://www.nesterly.com/,,usrirgB6rl9ulQW3Z,pa293@cornell.edu,Preksha Agarwal,Passed,"P2P rental platform focused on pairing older adults with rental housing.
+",Nesterly,,7,7.0,['recORPBP8BX0IpO53'],40.6986772,"Brooklyn, New York 11201, US",['recdgZhrJxyjqLAb9'],1-10,2017.0,Manhattan,hello@nesterly.com,-73.9859414,"similar to airbnb but for intergenerational focus
+
+",['Housing Systems'],2022-03-01,['Housing Systems: Lodging'],,,,,,,,,,,
+162,844,recfBMe51cVhGfVhp,2022-01-05T20:22:37.000Z,https://thoughtfulsystems.com/,TechNYC,usrirgB6rl9ulQW3Z,pa293@cornell.edu,Preksha Agarwal,Passed,"Thoughtful Systems manufactures, markets and supports scheduling software for field service businesses.
+",Thoughtful Systems,,,,['rec3hVUb0uifxVbD5'],40.6625048,"495 Flatbush Ave, Brooklyn, NY 11225",['recdgZhrJxyjqLAb9'],11-50,1985.0,Brooklyn,sarah@thoughtfulsystems.com,-73.9614225,,['Building Systems'],2022-03-02,['Building Systems: Facilities Management'],"crunchbase
+",Sarah Thomas,Sales and Customer Support,,,,,,,,
+163,846,recfDjVUBlvDGKboL,2022-01-05T20:22:37.000Z,https://www.alltherooms.com/,TechNYC,usrirgB6rl9ulQW3Z,pa293@cornell.edu,Preksha Agarwal,Passed,"tools for Airbnb hosts
+",AllTheRooms,3300000.0,18,18.0,['recORPBP8BX0IpO53'],40.7622869,"712 5th Ave, New York, NY 10019",['recdgZhrJxyjqLAb9'],11-50,2013.0,Manhattan,analytics@alltherooms.com,-73.9750432,,['Housing Systems'],2022-03-02,['Housing Systems: Lodging'],"crucnhbase
+",,,,,,2500000.0,,,,
+164,851,recfXWNqzTqf6dL87,2021-10-26T20:27:30.000Z,https://toweriq.nyc/,NYC EDC,usruYurWuYKJoW6LE,jjl295@cornell.edu,Jenny Liu,Passed,"Manufacturer of wireless life-safety systems and smart building technologies
+",TowerIQ,7000000.0,51,51.0,['rec3hVUb0uifxVbD5'],40.7523553,"40-29 27th Street, Long Island City, NY 11101",['recdgZhrJxyjqLAb9'],51-100,2014.0,Queens,info@toweriq.nyc,-73.9375206,"auxiliary radio communication systems, enhanced radio communication systems, first responder radio, and fire-alarm systems",['Building Systems'],2022-03-02,['Building Systems: Facilities Management'],,Joseph Ruszkowski (Director of Operations),,,,,,,,,
+165,854,recfeVGuVclKH7HeV,2021-10-26T19:32:44.000Z,http://calmenergydev.com/,NYC EDC,usrCxpuT0RoHLuwkR,ek542@cornell.edu,Eesha Khanna,Passed,"CALM Energy develops and provides smart grid controllers (utilities) as well as smart building controllers. 
+",Calm Energy,480000.0,8,8.0,['rec31GwmRDlkBUANu'],40.5775837,"13909 Beach Channel Dr Rockaway Park, NY, 11694-1209 United States",['recoxnv8QKuu7vlwx'],1-10,2007.0,Queens,Info@calmenergydev.com,-73.8592996,,['Energy Systems'],2022-03-01,['Energy Systems: Grid'],,,,,,,565394.0,,"Distributed Energy, Grid Control, Smart Grid, IOT, Building Performance",,
+166,857,recfswZLrR5a7hCaq,2021-10-26T19:45:30.000Z,https://citizen.com,,usrzlz6zDGzjGmaEg,mfd64@cornell.edu,Max Dumas,Passed,"Social network for emergencies and safety.
+",Citizen,133000000.0,,,['rec2dmT4omxI34ORF'],40.7190658,"197 Grand St, New York, NY 10013",['recqVXmif5koh0T0u'],101-250,2018.0,Manhattan,support@citizen.com,-73.99698939999999,,['Public Safety Systems'],2022-03-01,['Public Safety: Monitoring'],,,,"
+",,,,,,,
+167,859,recgGYyHsV4BYhyXT,2022-01-26T16:37:13.000Z,https://medly.com/en-us,,,,,Passed,,Medly,100000.0,,,,1.0,"31 Debevoise St, Brooklyn, NY 11206",['reca3rMDOoKHI3hPh'],101-250,2017.0,Brooklyn,hello@medly.com,,,"['Health Systems', 'Logistics Systems']",2022-03-03,,,,,,,,,,,,
+168,862,recgOgOgDMKMcDuHn,2022-01-05T20:22:37.000Z,https://marketproof.com/,TechNYC,usrirgB6rl9ulQW3Z,pa293@cornell.edu,Preksha Agarwal,Passed,"condo market analytics and tools for institutional real estate investors 
+",We3 Real Estate,,6,6.0,['recXTrODcFXkbucO3'],40.7027217,"68 Jay St #512, Brooklyn, NY 11201",['recdgZhrJxyjqLAb9'],1-10,2017.0,Brooklyn,,-73.98688779999999,,['Building Systems'],,['Building Systems: Property Management'],"crunchbase, linkedin
+",,,,,,,,,,
+169,863,recgQ9M93CW98vVVA,2021-10-26T20:22:46.000Z,www.cityglobe.com,,usrzlz6zDGzjGmaEg,mfd64@cornell.edu,Max Dumas,Passed,"Urban data analytics company that tracks labor markets, and seems to have a practice supplying information to economic development agencies.
+",Cityglobe,1000000.0,7,7.0,['recC6fzY1qYFMz728'],40.7535575,"335 Madison Avenue, Nwe York, NY, 10017",['rec5CKA579ehIVo7b'],1-10,2014.0,Manhattan,marek.banczyk@cityglobe.com,-73.9781361,"Global Market Management, International Expansion - use AI to get business analytics for companies seeking to grow internationally",['Labor Systems'],2022-03-02,['Labor Systems: Workforce Analytics'],,Marek Banczyk,CEO,,,,,,,,
+170,864,recgS1Xe69YvWhA6i,2022-01-13T13:59:11.000Z,https://www.earth.columbia.edu/units/view/6,,usr9BPdDIhuQuzTkj,atownsend@cornell.edu,Anthony Townsend,Passed,,"Center for Sustainable Urban Development, Earth Institute, Columbia University",,6,6.0,['recKRq9wisBEpQYsw'],40.80642659999999,"2910 Broadway, New York, NY, 10025",['recHuk1pvKzYmvRFG'],1-10,2004.0,Manhattan,kkrajick@ei.columbia.edu,-73.96457260000001,,['Innovation Systems'],2022-03-03,['Innovation Systems: Applied Research'],"TO DO ask jackie klopp for founding date
+",Kevin Krajick,Media,,,,,,,,
+171,865,recgTXSUKrYZh08lP,2022-01-31T15:04:37.000Z,jokr.com,,,,,Passed,,JOKR,430000000.0,,,['recRmZEGi4RvhgsfE'],,371 broadway new york ny 10013,['recEhjg8dnMkICv2w'],101-250,2021.0,Manhattan,dennis@jokr.it,,,['Food Systems'],2022-03-03,['Food Systems:  Delivery'],,Dennis Levene,VP Expansion,,,,,,,,
+172,867,recgTkB2kiLsoDlAy,2022-01-05T20:22:37.000Z,https://cadre.com/,TechNYC,usrirgB6rl9ulQW3Z,pa293@cornell.edu,Preksha Agarwal,Passed,"we have developed an innovative platform that gives you direct access to highly curated commercial real estate investments alongside some of the largest financial institutions in the world.
+
+",Cadre,133300000.0,165,165.0,['recXTrODcFXkbucO3'],40.7245522,"295 Lafayette St, Floor 5, New York, NY 10012",['recdgZhrJxyjqLAb9'],101-250,2014.0,Manhattan,press@cadre.com,-73.9953913,,['Building Systems'],2022-03-02,['Building Systems: Property Management'],"website, crunchbase, linkedin
+",,,,,,,,,,
+173,871,recgm31L2hV4hNMsh,2022-01-13T13:59:26.000Z,https://cusp.nyu.edu/,,usr9BPdDIhuQuzTkj,atownsend@cornell.edu,Anthony Townsend,Passed,,"Center for Urban Science and Progress, New York University",,,,['recKRq9wisBEpQYsw'],40.6929116,"370 Jay Street, 13th Floor, Brooklyn, NY, 11201",['recHuk1pvKzYmvRFG'],11-50,2013.0,Brooklyn,,-73.98746129999999,,['Innovation Systems'],,['Innovation Systems: Applied Research'],,,,,,,,https://cusp.nyu.edu/contact/contact-form/,,,
+174,884,rechGW9FfXvvmdwDC,2022-01-05T20:22:37.000Z,https://www.ybirdairways.com/,TechNYC,usrirgB6rl9ulQW3Z,pa293@cornell.edu,Preksha Agarwal,Passed,"facade inspection platform using robotics tech
+
+",Y Bird Airways,200000.0,240,240.0,['rec3hVUb0uifxVbD5'],40.7630793,"94-21 Astoria Blvd, East Elmhurst, NY 11369",['recdgZhrJxyjqLAb9'],101-250,2017.0,Queens,info@ybirdairways.com,-73.8745027,,['Building Systems'],2022-03-02,['Building Systems: Facilities Management'],"crunchbase, linkedin, website
+no office located in nyc
+",,,,,,,,,,
+175,885,rechJYEOYOBYVI6aK,2022-01-05T20:22:37.000Z,http://www.owal.io/,TechNYC,usrirgB6rl9ulQW3Z,pa293@cornell.edu,Preksha Agarwal,Passed,"video analytics platform
+",OWAL,,7,7.0,['rec2dmT4omxI34ORF'],40.7258876,"137 Varick St, New York, NY 10013",['recqVXmif5koh0T0u'],1-10,2016.0,Manhattan,info@owal.io,-74.0062336,,['Public Safety Systems'],2022-03-02,['Public Safety: Monitoring'],"website, crunchbase
+",,,,,,,,,,
+176,886,rechQxjWZnGC3fcBC,2022-01-06T23:28:54.000Z,https://committogreen.com/,,usrirgB6rl9ulQW3Z,pa293@cornell.edu,Preksha Agarwal,Passed,"sells scannable and compostable packaging to raise waste awareness and improve waste generation behaviors
+",Commit To Green,,4,4.0,['recsZ3Zc9dgmOn2NC'],40.7536344,"335 Madison Ave Floor 4, New York, NY 10017",['recb7WeB0tStkTUq8'],1-10,2016.0,Manhattan,partnership@committogreen.com,-73.97814819999999,,['Waste Systems'],2022-03-03,['Waste Systems: Diversion'],"linkedin		
+",,,,,,,,,,
+177,892,rechcfupqrkg5lG9n,2021-10-26T19:30:31.000Z,www.maalka.com,,usrCxpuT0RoHLuwkR,ek542@cornell.edu,Eesha Khanna,Passed,"helps cities decide what kinds of energy improvements to make for muni buidings
+",Maalka,1200000.0,12,12.0,['recxoYfGUZEqppDaZ'],40.7414291,"111 8th ave, suite 302, New York City, New York 10011, US",['recoxnv8QKuu7vlwx'],11-50,2015.0,Brooklyn,info@maalka.com,-74.0031106,provide many data tools to cities for data management related to sustainability,['Energy Systems'],2022-03-01,['Energy Systems: Buildings'],,,,,,,,,"Open Source Tools, SaaS, Sustainability Toolkit",,
+178,893,rechcyKXpWq4u8QkL,2021-10-19T18:43:03.000Z,https://dart.art/,NYC EDC,usrzlz6zDGzjGmaEg,mfd64@cornell.edu,Max Dumas,Passed,"seems like a young startup: <https://www.crunchbase.com/organization/dart-technologies-inc>
+",DART Technologies,300000.0,,,['recsa4yqeE7pnAIjb'],40.7349835,"57 5th Ave, New York, NY 10003",['receyB6jWwnjSbV8a'],1-10,2015.0,Manhattan,info@dart.art,-73.9939988,,['Mobility Systems'],2022-03-01,['Mobility Systems: Vehicles'],,,,,,,,,"AV, In-car entertainment",,
+179,897,rechqb3BdGJf2fWq0,2022-01-05T20:22:37.000Z,https://www.bluestate.co/,TechNYC,usrirgB6rl9ulQW3Z,pa293@cornell.edu,Preksha Agarwal,Passed,"not explicitly local/urban but lets look further—fundraising platform, grassroots mobilization, tech consulting
+
+",Blue State Digital,,240,240.0,['recE9ehRLZIohhipt'],40.6875012,"41 Flatbush Ave, Brooklyn, New York 11217",['recRDZqf1tuLAXPKP'],101-250,2004.0,Brooklyn,,-73.9796053,,['Civic Systems'],,['Civic Systems: Engagement'],"linkedin, growjo
+",,,,,,,https://www.bluestate.co/contact/,,,
+180,898,rechyOzOgkJabrD6M,2022-01-05T20:22:37.000Z,https://www.farmigo.com/,TechNYC,usrirgB6rl9ulQW3Z,pa293@cornell.edu,Preksha Agarwal,Passed,"software for CSA and food hub management
+",Farmigo Inc.,26000000.0,23,23.0,['recVl5jyxBBi57JrF'],40.6773043,"68 3rd St, Brooklyn, NY 11231",['recEhjg8dnMkICv2w'],11-50,2009.0,Brooklyn,benzi@farmigo.com,-73.9937431,,['Food Systems'],2022-03-02,['Food Systems: Alt-commerce'],"growjo	
+",Benzi Ronen,CEO,,,,6200000.0,,,,
+181,901,reciCs7MpAg4z6e4z,2021-10-26T19:57:42.000Z,www.hubatgct.com,NYC EDC,usruYurWuYKJoW6LE,jjl295@cornell.edu,Jenny Liu,Passed,"EDC-funded coworking focused on urban tech loosely
+",Company Urban Tech Hub,,,,['recg3IwW4njNc0Qdp'],40.75365730000001,"335 Madison Ave 4th floor, New York, NY 10017",['recHuk1pvKzYmvRFG'],1-10,2017.0,Manhattan,,-73.9782445,,['Innovation Systems'],,['Innovation Systems: Accelerators & Incubators'],"website and Google Maps
+",,,,,,,https://www.hubatgct.com/,,,https://twitter.com/Company
+182,903,reciK9qLRP9Nfbnnp,2021-11-02T17:43:27.000Z,www.lumiode.com,,usr9BPdDIhuQuzTkj,atownsend@cornell.edu,Anthony Townsend,Passed,"semiconductor technology startup specializing in high-brightness microdisplays for augmented reality and other display applications.
+",Lumiode,,13,13.0,['recYIePhsZkr376xu'],40.8087961,"2417 Third Avenue, Suite 600 Bronx, NY 10451",['rece3dYUKHXpHhEkU'],11-50,2012.0,Bronx,info@lumiode.com,-73.9307007,"semiconductor company commercializing a novel micro-LED platform delivering ultra-high brightness, low power, small form factor displays",['Information Systems'],2022-03-02,['Information Systems: AR/VR'],,,,,,,,,,,
+183,912,reciqDeEZPLymkBZk,2021-10-26T19:43:16.000Z,https://www.citymart.com/,NYC EDC,usr9BPdDIhuQuzTkj,atownsend@cornell.edu,Anthony Townsend,Passed,"Citymart is a leader in city procurement innovation, used in over 130 cities
+",Citymart,1800000.0,6,6.0,['recUwmBtQkN1prgeh'],40.7008739,"81 Prospect St, Brooklyn, New York, 11201, United States",['recRDZqf1tuLAXPKP'],1-10,2011.0,Manhattan,info@citymart.com,-73.9875141,,['Civic Systems'],2022-03-02,['Civic Systems: GovTech'],,,,,,,,,,,
+184,913,recix1AZrqw2XW9I6,2021-10-19T20:49:55.000Z,https://mark43.com/,,usrzlz6zDGzjGmaEg,mfd64@cornell.edu,Max Dumas,Passed,"Company providing a variety of digital public safety services for communities and police departments.
+",Mark43,228000000.0,,,['recwhATWxVi5iN4Eo'],40.74349,"28 E 28th Street, 12th Floor, New York, NY 10016, US",['recqVXmif5koh0T0u'],251-500,2012.0,Manhattan,info@mark43.com,-73.9854874,,['Public Safety Systems'],2022-03-01,['Public Safety: Emergency Response'],,,,,,,,,,,
+185,917,recj2W9o8LL9Qsamz,2021-10-19T16:32:27.000Z,https://www.fuell.us/,,usrzlz6zDGzjGmaEg,mfd64@cornell.edu,Max Dumas,Passed,"E-bike and E-motorcycle manufacturer
+",Fuell,,,,['recBK2rW9pSktPsk8'],40.7446298," 244 5th Ave, New York, US ",['receyB6jWwnjSbV8a'],1-10,2019.0,Manhattan,,-73.987667,,['Mobility Systems'],,['Mobility Systems: Vehicles'],,,,,,,,https://www.fuell.us/pages/contact-fuell,"EV, Micromobility",,
+186,934,reckCiNLDDZXaULlB,2021-11-02T20:26:30.000Z,www.scanifly.com,,usrCxpuT0RoHLuwkR,ek542@cornell.edu,Eesha Khanna,Passed,"Scanifly has a solar design software uses drone technology and 3D modeling tools to eliminate roof climbs, decrease onsite time by up to 90%, and increase design accuracy to avoid redesigns, change orders, or delays on install day.
+",Scanifly,2300000.0,18,18.0,['recs4pTBrGCE4AjJZ'],40.6929116,"370 Jay St, Brooklyn, New York 11201, US",['recdgZhrJxyjqLAb9'],11-50,2015.0,Brooklyn,info@scanifly.com,-73.98746129999999,"drone-based 3D modeling solar panel design
+",['Construction Systems'],2022-03-02,['Construction Systems: Surveying & Design'],"Employee range and count: LinkedIn. Funding source: Crunchbase. 
+",,,,,,,,,,
+187,935,reckD1RNOvQvRYF42,2022-01-05T20:22:37.000Z,https://cloud4wi.com/,TechNYC,usrCxpuT0RoHLuwkR,ek542@cornell.edu,Eesha Khanna,Passed,"platform for managing public wifi and ads
+",Cloud4Wi,18100000.0,77,77.0,['recrSVGURn4rHAspL'],40.7027571,"68 Jay St, Brooklyn, NY 11201",['recRDZqf1tuLAXPKP'],51-100,2013.0,Brooklyn,info@cloud4wi.com,-73.98683419999999,,['Civic Systems'],2022-03-02,['Civic Systems: Public Space Tech'],"Employee range and count: LinkedIn. Funding: Crunchbase.
+",,,,,,,,,,
+188,937,reckNYeHrViPWFHWr,2021-10-19T16:37:26.000Z,https://www.prescriptivedata.io/,,usrCxpuT0RoHLuwkR,ek542@cornell.edu,Eesha Khanna,Passed,"Provides ""building operating systems"" and advanced analytics for buildings to run more efficiently and smarter.
+",Prescriptive Data,,38,38.0,['recxoYfGUZEqppDaZ'],40.7566468,"845 3rd Ave, New York, NY 10022, United States",['recoxnv8QKuu7vlwx'],11-50,2016.0,Manhattan,info@prescriptivedata.io,-73.9698044,building operating system for commercial and residential real estate,['Energy Systems'],2022-03-01,['Energy Systems: Buildings'],"Not able to find total investment $
+",,,,,,,,,,
+189,942,reckdrYMB0FbD56f6,2022-01-05T20:22:37.000Z,https://crosscompute.com/,TechNYC,usrCxpuT0RoHLuwkR,ek542@cornell.edu,Eesha Khanna,Passed,"Main objective of company is to allow ease of creating and deploying tools, which is not very urban tech itself, but the use cases (power utilities, microgrid manufacturers, government agencies) are related to urban tech (AT yes, microgrid as the urban...)
+",CrossCompute,,9,9.0,['rec31GwmRDlkBUANu'],40.7516365,"445 5th Ave, New York, NY, 10016-0133",['recoxnv8QKuu7vlwx'],1-10,2011.0,Manhattan,support@crosscompute.com,-73.981929,,['Energy Systems'],2022-03-02,['Energy Systems: Grid'],"Crunchbase + LinkedIn. Not able to find total investment $
+",,,,,,,,,,
+190,948,recl2e1JnMpMA8i9U,2022-01-05T20:22:37.000Z,https://locasaur.com/ ,TechNYC,usrCxpuT0RoHLuwkR,ek542@cornell.edu,Eesha Khanna,Passed,"Focused on local/independent businesses - platform that allows them to personally message with regulars, power mobile transactions, and build closer, more profitable customer relationships. Bridges gap between physical and digital worlds but not sure if it is urban tech enough as it caters to businesses
+",Locasaur,,2,2.0,['recVl5jyxBBi57JrF'],40.7274061,"175 Varick St, New York, US",['recEhjg8dnMkICv2w'],1-10,2017.0,Manhattan,hello@locasaur.com,-74.00605,,['Food Systems'],2022-03-02,['Food Systems: Alt-commerce'],"Not able to find total investment $
+",,,,,,,,,,
+191,952,recl9VHkxW3i91ZhO,2021-11-02T16:31:51.000Z,www.revmax.io,,usrzlz6zDGzjGmaEg,mfd64@cornell.edu,Max Dumas,Passed,"REVMAX builds intelligent demand forecasting systems using Machine Learning and Big Data. Our proprietary platform is specifically designed for transportation and distribution applications.
+",Revmax,140000.0,,,['receBXbN6odOQUuS7'],40.7246788," 29 Norman Ave, Brooklyn, New York 11222, US ",['receyB6jWwnjSbV8a'],1-10,2016.0,Brooklyn,jonathan@revmax.io,-73.9548791,,['Mobility Systems'],2022-03-02,['Mobility Systems: Traffic informatics'],,Jonathan Weekley,CEO,,,,,,"AV, Analytics",,
+192,967,recllMa7itcpXstqK,2022-01-21T16:22:50.000Z,https://www.enertiv.com/,,usrirgB6rl9ulQW3Z,pa293@cornell.edu,Preksha Agarwal,Passed,"doing submetering, funded by Commonweal Ventures
+",Enertiv,7700000.0,35,35.0,['recxoYfGUZEqppDaZ'],40.756645,"320 W 37th St #1500, New York, NY 10018",['recoxnv8QKuu7vlwx'],11-50,2009.0,Manhattan,info@enertiv.com,-73.99730989999999,,['Energy Systems'],2022-03-03,['Energy Systems: Buildings'],,,,,,,,,,,
+193,970,reclzMQrDOfsVzCOG,2022-01-05T20:22:37.000Z,https://www.orangeugoing.com/,TechNYC,usrCxpuT0RoHLuwkR,ek542@cornell.edu,Eesha Khanna,Passed,"Platform for posting events and meeting like-minded New Yorkers
+",Orange U Going,,1,1.0,['recE9ehRLZIohhipt'],40.9355278,"PO 911, Bronxville, NY 10708, US",['recRDZqf1tuLAXPKP'],1-10,2017.0,Bronx,buddy@orangeugoing.com,-73.8314762,,['Civic Systems'],2022-03-02,['Civic Systems: Engagement'],"Not able to find total investment $
+",,,,,,,,,,
+194,980,recmpVEDfr48qSZ1f,2022-01-05T20:22:37.000Z,https://www.kaiahealth.com/,TechNYC,usruYurWuYKJoW6LE,jjl295@cornell.edu,Jenny Liu,Passed,,Kaia Health,123000000.0,,,['recMJWRcaTmDI987X'],40.7382995,"220 E 23rd St. PH. New York, New York 10010, US",['reca3rMDOoKHI3hPh'],101-250,2016.0,Manhattan,info@kaia-health.com,-73.9824061,,['Health Systems'],2022-03-02,['Health Systems: Hybrid Telehealth'],,,,,,,,,,,
+195,984,recn3735JfnQACP3U,2022-01-05T20:22:37.000Z,https://envelope.city/,TechNYC,usrCxpuT0RoHLuwkR,ek542@cornell.edu,Eesha Khanna,Passed,"Get Started NowContact Sales
+",Envelope,4000000.0,12,12.0,['recs4pTBrGCE4AjJZ'],40.7123316,"233 Broadway, 10th floor, New York, NY 10279, US",['recdgZhrJxyjqLAb9'],11-50,2015.0,Manhattan,info@envelope.city,-74.0080626,,['Construction Systems'],2022-03-02,['Construction Systems: Surveying & Design'],,,,,,,,,,,
+196,986,recn89Uu0FcotjRHY,2021-11-02T02:15:26.000Z,www.marketplace.city,NYC EDC,usr9BPdDIhuQuzTkj,atownsend@cornell.edu,Anthony Townsend,Passed,"Marketplace.city’s website aggregates public-sector contracts so that city procurement officials can learn about prospective vendors’ past business with other municipalities and helps cities and vendors connect with each other.
+",Marketplace.city (Clearbox tool),1000000.0,9,9.0,['recUwmBtQkN1prgeh'],41.8823361,"500 West Madison  Suite 1000  Chicago, IL 60661, US",['recRDZqf1tuLAXPKP'],1-10,2017.0,Brooklyn,hello@marketplace.city,-87.6403662,,['Civic Systems'],2022-03-02,['Civic Systems: GovTech'],,,,,,,,,,,
+197,987,recn8vfHboGMPtJiT,2022-01-05T20:22:37.000Z,MetaBronx >> number one diversity-focused startup accelerator in NYC,TechNYC,usrCxpuT0RoHLuwkR,ek542@cornell.edu,Eesha Khanna,Passed,"MetaBronx is an entrepreneurship education program created to accelerate startups owned by women and members of cultural minorities.
+",MetaBronx,,77,77.0,['recg3IwW4njNc0Qdp'],40.8157423,"2823 3rd Ave. Suite 109, Bronx, NY 10455",['recHuk1pvKzYmvRFG'],51-100,2015.0,Bronx,investors@metabronx.com,-73.9185203,,['Innovation Systems'],2022-03-02,['Innovation Systems: Accelerators & Incubators'],"Funding? Since it's an accelerator 
+",,,,,,,,,,
+198,992,recnQq1oVRxFK8NhQ,2022-01-05T20:22:37.000Z,https://www.luminary-labs.com/ ,TechNYC,usrCxpuT0RoHLuwkR,ek542@cornell.edu,Eesha Khanna,Passed,"Strategy and innovation consultancy that focuses on future of health, future of work and education, infrastructure, and scientific discovery. (AT looks like they are fishing for smart cities work, by recasting a health project as smart cities which is a great ""urban tech"" smell https://www.luminary-labs.com/open-innovation-can-create-smarter-safer-cities/)
+",Luminary Labs,,18,18.0,['recCYxgacqCMvP8Nb'],40.7070853,"61 Broadway, New York, NY 10006",['recHuk1pvKzYmvRFG'],11-50,2009.0,Manhattan,hello@luminary-labs.com,-74.01255259999999,,['Innovation Systems'],2022-03-02,"['Innovation Systems:  Design, Engineering, and Planning Services']",,,,,,,,,,,
+199,999,recnoYEYI24Zzkw9b,2021-10-26T20:15:00.000Z,https://www.onsiteiq.io,,usrCxpuT0RoHLuwkR,ek542@cornell.edu,Eesha Khanna,Passed,"OnSiteIQ provides visual construction documentation for builders and owners using computer vision technology. 
+",OnSiteIQ,12400000.0,4,4.0,['rec1HjG8ErJDBzk43'],40.7535575,"335 Madison Ave, New York, NY 10017",['recdgZhrJxyjqLAb9'],1-10,2017.0,Manhattan,info@onsiteiq.io,-73.9781361,,['Construction Systems'],2022-03-02,['Construction Systems: Construction Management'],,,,,,,983626.0,,Auto Construction Documentation,,
+200,1000,recnpKsyhvORrUROU,2021-10-26T20:16:53.000Z,https://www.coord.com/,,usrzlz6zDGzjGmaEg,mfd64@cornell.edu,Max Dumas,Passed,"Coord Smart Zones transform curb space into flexible, bookable zones. Sidewalk Labs spinout.
+",Pebble,5000000.0,,,['receBXbN6odOQUuS7'],40.7536344," 335 Madison Ave, Fl 4, New York, NY 10017, US ",['receyB6jWwnjSbV8a'],11-50,2016.0,Manhattan,,-73.97814819999999,,['Mobility Systems'],,['Mobility Systems: Traffic informatics'],"formerly Coord. nothing about them in the sidewalk wind up post https://medium.com/sidewalk-talk/my-next-chapter-fighting-als-207ce7ca69c8
+",,,,,,,https://www.sidewalklabs.com/products/pebble,"Curb Management, Analytics",,
+201,1002,recnpzA6UO1dq3wpD,2022-01-05T20:22:37.000Z,https://about.google/,TechNYC,usrCxpuT0RoHLuwkR,ek542@cornell.edu,Eesha Khanna,Passed,"Might want to include esp since they are merging Sidewalk Labs into Google. feeling we should not include FANG in urban tech generally
+",Google,,150028,,['rec5FjxYhSmX68bzd'],,"111 8th Ave, New York, NY 10011",['rece3dYUKHXpHhEkU'],500+,1998.0,Manhattan,,,,['Information Systems'],,['Information Systems: Platform'],,,,,,,,,,['Verify jobs #'],
+202,1003,recnqKaFM4VacTIWk,2022-01-05T20:22:37.000Z,https://www.grubhub.com/,TechNYC,usrCxpuT0RoHLuwkR,ek542@cornell.edu,Eesha Khanna,Passed,,GrubHub,284100000.0,5683,5683.0,['recRmZEGi4RvhgsfE'],40.7539141,"1065 6th Ave, New York NY 10018",['recEhjg8dnMkICv2w'],500+,2004.0,Manhattan,,-73.9853115,,['Food Systems'],,['Food Systems:  Delivery'],,,,,,,,,,,
+203,1009,reco71SEvDBUSiQSO,2022-01-05T20:22:37.000Z,https://foursquare.com/,TechNYC,usrCxpuT0RoHLuwkR,ek542@cornell.edu,Eesha Khanna,Passed,"Independent location data platform for understanding how people move through the real world. Not sure if this fails as it tracks movement of people
+",Foursquare,390400000.0,587,587.0,['recKd0KOVz9BhWPMt'],40.7419258,"50 W 23rd St, New York, NY 10010",['rece3dYUKHXpHhEkU'],500+,2009.0,Manhattan,support@foursquare.com,-73.9919099,,['Information Systems'],2022-03-02,['Information Systems: Location Intelligence'],"Funding: Crunchbase. Employees: LinkedIn.
+",,,,,,,,,,
+204,1010,reco78EM4py0NeZcI,2022-01-05T20:22:37.000Z,https://www.hotelsbyday.com/en ,TechNYC,usrCxpuT0RoHLuwkR,ek542@cornell.edu,Eesha Khanna,Passed,"Kind of like Airbnb but for intraday hotel spaces for stays ranging from four to nine hours usually between 10 am and 8 pm
+",HotelsByDay,1282000.0,20,20.0,['recORPBP8BX0IpO53'],40.75508730000001,"545 5th Ave, New York, 10017, US",['recdgZhrJxyjqLAb9'],11-50,2014.0,Manhattan,frontdesk@hotelsbyday.com,-73.979261,,['Housing Systems'],2022-03-02,['Housing Systems: Lodging'],"Address: LinkedIn. Employees: LinkedIn. Funding: [pitchbook.com ](https://pitchbook.com/profiles/company/120227-77#timeline)(not totally accurate as some info is for premium members only)
+",,,,,,,,,,
+205,1013,recoCQzsckndDh4op,2021-11-05T07:07:38.000Z,https://civ-lab.org/,NYC EDC,usr9BPdDIhuQuzTkj,atownsend@cornell.edu,Anthony Townsend,Passed,"CIV:LAB is a 501(c)(3) non-profit organization working in New York, Detroit and London on urban innovation and economic development.
+",CIV:LAB,,16,16.0,['recTxg8F0FeUTZcU5'],40.739496,"120 E 23rd St, 5th Floor, New York, New York 10010",['recHuk1pvKzYmvRFG'],1-10,2019.0,Manhattan,,-73.98572,,['Innovation Systems'],,['Innovation Systems: Networking'],"TO DO ask simon
+
+",simon sylvester-chaudhuri ,Founder and Executive Director,,,,,,,,
+206,1016,recoHw0LIRV18NNmY,2021-10-11T13:27:28.000Z,https://www.brightpower.com/,,usrCxpuT0RoHLuwkR,ek542@cornell.edu,Eesha Khanna,Passed,"Company that focuses on optimizing energy, waste, and water systems for buildings.
+",Bright Power,31300000.0,242,242.0,['recxoYfGUZEqppDaZ'],40.7052845,"11 Hanover Square, 21st Floor New York, NY 10005",['recoxnv8QKuu7vlwx'],101-250,2004.0,Manhattan,info@brightpower.com,-74.00886849999999,"energy and water services for real estate owners/operators (includes MoBIUS, real-time system)
+",['Energy Systems'],2022-03-01,['Energy Systems: Buildings'],,,,,,,50800000.0,,"Building Performance, Retrofit",,
+207,1023,recocdbY7MQYKxt3m,2021-10-19T17:08:43.000Z,www.omnixlabs.com,,usrzlz6zDGzjGmaEg,mfd64@cornell.edu,Max Dumas,Passed,"CV for extracting insights from existing video survillance networks in business locations.
+",Omnix labs,3000000.0,11,11.0,['recC6fzY1qYFMz728'],40.7038704,"Manhattan, New York City, NY 10004, US",['rec5CKA579ehIVo7b'],11-50,2018.0,Manhattan,info@omnixlabs.com,-74.0138541,uses businesses' cameras to view physical business happenings and give back analytics and insights,['Labor Systems'],2022-03-01,['Labor Systems: Workforce Analytics'],,,,,,,,,,,
+208,1027,recopuslsh7y8TakG,2021-10-26T19:51:45.000Z,https://sencity.city/,,usrirgB6rl9ulQW3Z,pa293@cornell.edu,Preksha Agarwal,Passed,"Their TetraBIN product is an interactive receptacle that brings delightful surprise and reward to the simple act of trash disposal, leveraging interaction into an effective behavior shift.
+",Sencity,60000.0,5,5.0,['recsZ3Zc9dgmOn2NC'],40.7246788,"29 Norman Ave, Brooklyn, NY 11222",['recb7WeB0tStkTUq8'],1-10,2016.0,Brooklyn,steven@sencity.city,-73.9548791,,['Waste Systems'],2022-03-02,['Waste Systems: Diversion'],"crucnhbase, website
+",Steven Bai,Co-founder,,,,,,,,
+209,1029,recouMhDuDXMpGRVD,2021-10-26T20:50:28.000Z,https://www.traiilo.com/,NYC EDC,usr2qPunnCed2lMv6,lk545@cornell.edu,Lars Kouwenhoven,Passed,"Commission-free online ordering and delivery for latin retailers
+",Tryylo,,,,['recr9vstr2rJolJDz'],,"2501 Grand Concourse 3rd floor, Bronx, NY 10468, United States",['receyB6jWwnjSbV8a'],1-10,2017.0,Manhattan,info@tryylo.com,,It is unclear what the address is. ,['Logistics Systems'],2022-03-02,['Logistics Systems: Last-Mile'],,,,,,,,,,,
+210,1038,recpcq64wPiokvvy4,2022-01-05T20:22:37.000Z,https://jibe.company/ ,TechNYC,usrCxpuT0RoHLuwkR,ek542@cornell.edu,Eesha Khanna,Passed,"One of their products, Charge Broker is in the EV/mobility realm but the rest are focused on e-commerce and data security. Acquired by iCIMS.
+",Jibe,47900000.0,55,55.0,['rec7Giua9uNBNO1s1'],40.7309491,"96 Morton St #5, New York, NY 10014",['receyB6jWwnjSbV8a'],51-100,2009.0,Manhattan,,-74.0078137,,['Mobility Systems'],,['Mobility Systems: EV Infrastructure'],"Employees: LinkedIn. Funding: Crunchbase.
+",,Acquired by iCIMS,,,,,,,,
+211,1040,recpkgSZafuYrvJru,2022-01-05T20:22:37.000Z,http://flycleaners.com/,TechNYC,usrCxpuT0RoHLuwkR,ek542@cornell.edu,Eesha Khanna,Passed,"App connects customers with local providers for laundry and dry cleaning
+",Flycleaners,2000000.0,20,20.0,['recr9vstr2rJolJDz'],40.7532988,"4700 Northern Blvd, Flycleaners, Long Island City, NY 11101",['receyB6jWwnjSbV8a'],51-100,2013.0,Queens,media@rinse.com,-73.9156473,,['Logistics Systems'],2022-03-02,['Logistics Systems: Last-Mile'],"Address: https://opendatanewyork.com/business/1475019. Funding: Crunchbase. Employees: LinkedIn. Note that the company reports size as 51-200 employees on LinkedIn, but there are only 20 employees who work there on LinkedIn, so several are probably part-time/gig type workers. 
+",,acquired by Rinse,,,,,,,,
+212,1041,recpoK94liYgqszpT,2022-01-05T20:22:37.000Z,https://www.gensler.com/projects/united-technologies-digital,TechNYC,usrCxpuT0RoHLuwkR,ek542@cornell.edu,Eesha Khanna,Passed,"Merged with Raytheon Technologies. Big company doing a lot of stuff including vaguely UT-ish things like building automation. they have this center https://www.gensler.com/projects/united-technologies-digital
+",United Technologies Digital Accelerator,,250,250.0,['recg3IwW4njNc0Qdp'],40.7033226,"55 Water Street, Brooklyn, New York",['recHuk1pvKzYmvRFG'],101-250,2017.0,Brooklyn,,-74.0088962,,['Innovation Systems'],,['Innovation Systems: Accelerators & Incubators'],"Not sure about total investment $ since it is an accelerator 
+",,,,,,,,,,
+213,1042,recpq4Naxa6rtlqz2,2022-01-05T20:22:37.000Z,https://peatix.com/,TechNYC,usrCxpuT0RoHLuwkR,ek542@cornell.edu,Eesha Khanna,Passed,"An online ticket sales and event management service.
+",Peatix,13900000.0,48,48.0,['recE9ehRLZIohhipt'],40.7008739,"81 Prospect Street, Brooklyn, New York, New York 11201, US",['recRDZqf1tuLAXPKP'],11-50,2011.0,Brooklyn,info@peatix.com,-73.9875141,,['Civic Systems'],2022-03-02,['Civic Systems: Engagement'],"Funding: Crunchbase. Employees: LinkedIn.
+",,,,,,,,,,
+214,1043,recpxxP8tTnD0pNSW,2022-01-05T20:22:37.000Z,https://www.stralto.com/,TechNYC,usrCxpuT0RoHLuwkR,ek542@cornell.edu,Eesha Khanna,Passed,"The website says that their technology solutions are meant for innovating cities and enterprises. Cannot determine suitable category though. Another GovTech product is GrantCare.
+",Stralto Inc.,,9,9.0,['recUwmBtQkN1prgeh'],40.7106472,"222 Broadway, 19th Floor New York, NY 10038",['recRDZqf1tuLAXPKP'],1-10,2018.0,Manhattan,info@stralto.com,-74.00817950000001,,['Civic Systems'],2022-03-02,['Civic Systems: GovTech'],"Not able to find total investment $
+",,,,,,,,,,
+215,1044,recpzoy3pAoBYu26B,2022-01-05T20:22:37.000Z,https://www.carmera.com/,TechNYC,usrCxpuT0RoHLuwkR,ek542@cornell.edu,Eesha Khanna,Passed,"Marked dead as it was acquired...to be reviewed. CARMERA is a spatial AI company that supports next-generation mobility with cutting-edge mapping and geospatial technology. A wholly owned subsidiary of Toyota’s Woven Planet Holdings, CARMERA specializes in using commodity sensors, like vehicle cameras and consumer telematics, to create rich map data with the accuracy, fidelity and detail needed to support even the most advanced transportation use cases. Acquired by Woven Planet.
+",Carmera,27100000.0,55,55.0,['receBXbN6odOQUuS7'],40.7042791,"20 Jay St #312, Brooklyn, NY 11201",['receyB6jWwnjSbV8a'],51-100,2015.0,Brooklyn,press@carmera.com,-73.9868096,,['Mobility Systems'],2022-03-02,['Mobility Systems: Traffic informatics'],"Undisclosed acquisition price.
+",,,,2021.0,0.0,,,,,
+216,1048,recqDdXct9XQBVvC3,2022-01-05T20:22:37.000Z,https://www.justfix.nyc/en/,TechNYC,usrCxpuT0RoHLuwkR,ek542@cornell.edu,Eesha Khanna,Passed,,JustFix.nyc,180000.0,13,13.0,['rec3hVUb0uifxVbD5'],40.7168753,111 Centre Street New York,['recdgZhrJxyjqLAb9'],11-50,2015.0,Manhattan,hello@justfix.nyc,-74.0014647,,['Building Systems'],2022-03-02,['Building Systems: Facilities Management'],"Employees: LinkedIn. Funding: Crunchbase.
+",,,,,,,,,,
+217,1057,recqy9WlGa5DhcaGi,2022-01-05T20:22:37.000Z,https://www.springhealth.com/,TechNYC,usruYurWuYKJoW6LE,jjl295@cornell.edu,Jenny Liu,Passed,"
+",Spring Health,295500000.0,,,['recMJWRcaTmDI987X'],40.7383725,"251 Park Avenue South, Floor 6. New York, NY 10010",['reca3rMDOoKHI3hPh'],251-500,2016.0,Manhattan,hello@springhealth.com,-73.9872728,,['Health Systems'],2022-03-02,['Health Systems: Hybrid Telehealth'],,,,,,,,,,,
+218,1058,recr0lfKEBdvlYs9l,2021-10-19T18:33:35.000Z,https://www.voyagecontrol.com/,,usrzlz6zDGzjGmaEg,mfd64@cornell.edu,Max Dumas,Passed,"Company focused on optimizing large-scale delivery logistics for construction, port facilities, and large events.
+",Voyage Control,,,,['reccaLwYeNkuiMQNx'],40.7535575,"335 Madison Ave, New York City, New York 10017, US",['receyB6jWwnjSbV8a'],11-50,2014.0,Manhattan,info@voyagecontrol.com,-73.9781361,,['Logistics Systems'],2022-03-01,['Logistics Systems: Ports & Airports'],,,,,,,,,,,
+219,1061,recr9oRF17kYwelCf,2022-01-05T20:22:37.000Z,https://descarteslabs.com/,TechNYC,usruYurWuYKJoW6LE,jjl295@cornell.edu,Jenny Liu,Passed,"geospatial, but focused on mining and this is a branch office.
+",Descartes Labs,58000000.0,,,['recKd0KOVz9BhWPMt'],40.7080983,"28 Liberty St, New York, NY 10005, US",['rece3dYUKHXpHhEkU'],101-250,2014.0,Manhattan,hello@descarteslabs.com,-74.0090505,,['Information Systems'],2022-03-03,['Information Systems: Location Intelligence'],,,,,,,,,,,
+220,1063,recrIEXZCaqVEzGER,2022-01-05T20:22:37.000Z,https://www.democracy.works/,TechNYC,usrCxpuT0RoHLuwkR,ek542@cornell.edu,Eesha Khanna,Passed,"They focus on local elections as well => decided to Pass
+",Democracy Works,4400000.0,59,59.0,['recd4MIMoRnO8UcTB'],40.7040351,"20 Jay St #840, Brooklyn, NY 11201",['recRDZqf1tuLAXPKP'],51-100,2010.0,Brooklyn,info@democracy.works,-73.9867238,,['Civic Systems'],2022-03-02,['Civic Systems: Digital Rights'],,,,,,,,,,,
+221,1069,recrRdXQk5rOxaqXF,2022-01-05T20:22:37.000Z,https://cooper.edu/engineering/center-urban-infrastructure,TechNYC,usruYurWuYKJoW6LE,jjl295@cornell.edu,Jenny Liu,Passed,"
+","Center for Urban Infrastructure, Cooper Union",,,,['recIVqNPj8v27K5yO'],40.7281197,"30 Cooper Sq, New York, NY 10003",['recdgZhrJxyjqLAb9'],1-10,2010.0,Manhattan,,-73.99161149999999,,['Building Systems'],,['Building Systems: Infrastructure & Asset Management'],,,,,,,,,,,
+222,1070,recrWstflouvRLOf2,2021-11-02T17:26:28.000Z,https://www.siliconharlem.com/,NYC EDC,usr9BPdDIhuQuzTkj,atownsend@cornell.edu,Anthony Townsend,Passed,"Silicon Harlem is a social venture that has been designed to transform Harlem in to a technology and innovation hub
+",Silicon Harlem,,2,2.0,['recd4MIMoRnO8UcTB'],40.82466489999999,"2785 Frederick Douglass Blvd, New York, NY 10039",['recRDZqf1tuLAXPKP'],1-10,2013.0,Manhattan,info@siliconharlem.com,-73.940896,,['Civic Systems'],2022-03-02,['Civic Systems: Digital Rights'],,Clayton Banks,CEO,,,,,,,,
+223,1078,recrkDLdOfQ8WrNiW,2021-11-02T20:46:59.000Z,https://urbanlogiq.com,,usrzlz6zDGzjGmaEg,mfd64@cornell.edu,Max Dumas,Passed,"UrbanLogiq provides a data analytics platform that makes city planning faster, cheaper, and more accurate.
+",UrbanLogiq,4380000.0,23,23.0,['receBXbN6odOQUuS7'],49.2848078,"700 W Pender St Suite 1505, Vancouver, BC V6C 1G8, Canada",['receyB6jWwnjSbV8a'],11-50,2016.0,Manhattan,info@urbanlogiq.com,-123.1154877,,['Mobility Systems'],2022-03-02,['Mobility Systems: Traffic informatics'],,,,"AT: Tyce told me they are moving to Manhattan as of 2022 March
+",,,,,,,
+224,1081,recsAozF8Lf89Zw7n,2022-01-05T20:22:37.000Z,My Bodega Online,TechNYC,usruYurWuYKJoW6LE,jjl295@cornell.edu,Jenny Liu,Passed,,My Bodega Online,,,,,40.8629381,"3842 9th Avenue, New York, NY 10034, US",['recEhjg8dnMkICv2w'],1-10,2015.0,Manhattan,info@mybodega.online,-73.9180249,,['Food Systems'],2022-03-03,,"cant find investments
+",,,,,,,,,,
+225,1085,recsLJbDgXcX78fzm,2022-01-05T20:22:37.000Z,https://www.airbnb.com/,TechNYC,usruYurWuYKJoW6LE,jjl295@cornell.edu,Jenny Liu,Passed,"how big is the team in their NYC office? removed investment number to reflect this is a branch office
+",Airbnb,,,500.0,['recORPBP8BX0IpO53'],40.7261831,"627 Broadway, New York, NY",['recdgZhrJxyjqLAb9'],500+,2008.0,Manhattan,contact.press@airbnb.com,-73.996509,set investment to zero = not NYC HQ,['Housing Systems'],2022-03-03,['Housing Systems: Lodging'],"
+",,,,,,,,,"['Adjust Jobs #', 'Adjust Investment $']",
+226,1092,recsiKcLqHhoX0r5o,2022-01-05T20:22:37.000Z,https://www.jetty.com/,TechNYC,usruYurWuYKJoW6LE,jjl295@cornell.edu,Jenny Liu,Passed,"\_fintech\_ company that adds flexibility for renters with paying rent
+",Jetty,63500000.0,,,['recTK7H4wtd7cQBhB'],40.7195076,"217 Centre Street Mailbox 118, New York, NY 10013",['recdgZhrJxyjqLAb9'],51-100,2015.0,Manhattan,hello@jetty.com,-73.9989204,,['Housing Systems'],2022-03-03,['Housing Systems: Resident Services'],,,,,,,,,,,
+227,1093,recsiVf7i2FBTNAG4,2021-10-19T16:47:28.000Z,www.sgs.com,NYC EDC,usr9BPdDIhuQuzTkj,atownsend@cornell.edu,Anthony Townsend,Passed,"Dinger, local office is in NJ. Globally active testing, inspection and certification company—does a lot of COVID safe certification work. 95,000 total employees worldwide
+
+
+",SGS (Société Générale de Surveillance),,45312,,,,1 Place des Alpes P.O. Box 2152 1211 Geneva Switzerland,"['reca3rMDOoKHI3hPh', 'recdgZhrJxyjqLAb9']",51-100,1878.0,,,," testing, inspection and certification company","['Health Systems', 'Building Systems']",,,"Investment set to zero. not HQs in NYC. 
+",,,,,,7500000000.0,,,['Verify jobs #'],
+228,1099,rect7OeVH4wsnubII,2022-01-05T20:22:37.000Z,https://www.handy.com/,TechNYC,usrirgB6rl9ulQW3Z,pa293@cornell.edu,Preksha Agarwal,Passed,"this is a tough one, its inherently local hiring but it doesnt feel as urban
+",Handy,111000000.0,916,916.0,['recKZR0IOkFvsMhPI'],40.7429606,"53 West 23rd Street 3rd Floor, New York, New York 10010",['rec5CKA579ehIVo7b'],500+,2012.0,Manhattan,team@handy.com,-73.99131299999999,,['Labor Systems'],2022-03-02,['Labor Systems:  Local Hiring'],"growjo	
+",,,,,,,,,,
+229,1105,rectda8b6oGHfNh4R,2021-10-26T19:38:26.000Z,https://www.downtownbrooklyn.com/,NYC EDC,usr9BPdDIhuQuzTkj,atownsend@cornell.edu,Anthony Townsend,Passed,"Downtown Brooklyn Partnership is a non-profit local development corp that manages 2 BIDs
+",Downtown Brooklyn Partnership,,21,21.0,['recVfx2URziaUpqz4'],40.6931322,"1 METROTECH CENTER NORTH, SUITE 1003 BROOKLYN, NY",['recRDZqf1tuLAXPKP'],11-50,2006.0,Brooklyn,,-73.986496,,['Civic Systems'],,['Civic Systems: Living Labs'],,,,,,,2730535.0,https://www.downtownbrooklyn.com/contact,,,
+230,1107,rectpFYUm5oukyQrn,2022-01-05T20:22:37.000Z,https://www.greycroft.com/,TechNYC,usr2qPunnCed2lMv6,lk545@cornell.edu,Lars Kouwenhoven,Passed,,Greycroft,,,,['rec9YdIfEpeflVrvZ'],40.7520595,"292 Madison Ave, 8th Floor, New York, NY, 10017",['recHuk1pvKzYmvRFG'],51-100,2006.0,Manhattan,media@greycroft.com,-73.98022519999999,,['Innovation Systems'],2022-03-02,['Innovation Systems: Investing'],,,,,,,,,,,
+231,1112,recu1ee31aJbRuV7h,2022-01-05T20:22:37.000Z,https://meetup.com/,TechNYC,usr9BPdDIhuQuzTkj,atownsend@cornell.edu,Anthony Townsend,Passed,,Meetup,,,,['recE9ehRLZIohhipt'],40.7259969,"632 Broadway, New York, NY 10012",['recRDZqf1tuLAXPKP'],101-250,2002.0,Manhattan,,-73.99567909999999,,['Civic Systems'],,['Civic Systems: Engagement'],,,,,,,,,,,
+232,1116,recu7Kw1B62OfeL6T,2021-10-26T20:30:17.000Z,https://rapidsos.com/,,usrzlz6zDGzjGmaEg,mfd64@cornell.edu,Max Dumas,Passed,"RapidSOS built the emergency response data platform to help first responders get the data they need to save more lives. We work with some of the world’s largest organizations to help them protect their customers, members, and employees by linking real-time data from their smart devices securely to first responders.
+",RapidSOS,226000000.0,179,179.0,['recwhATWxVi5iN4Eo'],40.7465696,"3 Park Ave, New York, NY 10016",['recqVXmif5koh0T0u'],101-250,2012.0,Manhattan,info@rapidsos.com,-73.9810791,,['Public Safety Systems'],2022-03-02,['Public Safety: Emergency Response'],,,,,,,,,,,
+233,1120,recuOv3MMQdOLeGnO,2021-10-19T18:51:09.000Z,https://revolutionrickshaws.com/,,usrzlz6zDGzjGmaEg,mfd64@cornell.edu,Max Dumas,Passed,"Vertically integrated platform for supporting micro-mobility services like rickshaws.
+",Revolution Rickshaws,300000.0,,,['recr9vstr2rJolJDz'],40.7573082," 501 10th Ave, New York, 10018, US ",['receyB6jWwnjSbV8a'],1-10,2005.0,Manhattan,gregg@revolutionrickshaws.com,-73.9974371,,"['Mobility Systems', 'Logistics Systems']",2022-03-01,"['Mobility Systems:  Shared mobility', 'Logistics Systems: Last-Mile']",,Gregg Zuman,CEO ***,"Hi, Anthony. 
+
+Revolution an Urban Tech Hub could be productive partners. What are you up to here exactly? 
+
+Thanks for your consideration. 
+
+Best regards,
+
+Gregg Zuman
+Principal
+Revolution Industries
+212.239.0200 x101
+",,,,,"Micromobility, Advertising, Logistics",,
+234,1124,recui18o0l7W2RYhb,2022-01-05T20:22:37.000Z,https://www.thumbtack.com/,TechNYC,usrirgB6rl9ulQW3Z,pa293@cornell.edu,Preksha Agarwal,Passed,"""Find local professionals for pretty much anything.""
+",Thumbtack Technology,818000000.0,800,800.0,['recKZR0IOkFvsMhPI'],40.7056335,"25 Broadway FL 9 New York, NY 10004",['rec5CKA579ehIVo7b'],500+,2008.0,Manhattan,support@thumbtack.com,-74.0140385,,['Labor Systems'],2022-03-02,['Labor Systems:  Local Hiring'],"growjo, d&b
+",,,,,,,https://help.thumbtack.com/contact-thumbtack/email,,,
+235,1132,recv4v8NP7JMLi6rZ,2021-10-26T19:30:40.000Z,https://www.walkspan.com,NYC EDC,usrirgB6rl9ulQW3Z,pa293@cornell.edu,Preksha Agarwal,Passed,"Data-driven location intelligence technology firm dedicated to pedestrianizing the public realm
+",Walkspan,,10,10.0,['recrSVGURn4rHAspL'],40.7859464,"New York, NY 10024, US",['recRDZqf1tuLAXPKP'],11-50,2019.0,Manhattan,info@walkspan.com,-73.97418739999999,"data-driven location intelligence platform for walking data and its applications
+",['Civic Systems'],2022-03-01,['Civic Systems: Public Space Tech'],"https://pitchbook.com/profiles/company/321597-64
+",Bernardita Calinao,,,,,,,,,
+236,1136,recvLVmYXrdDtV1Nj,2021-10-26T19:32:37.000Z,www.makerbot.com,,usrCxpuT0RoHLuwkR,ek542@cornell.edu,Eesha Khanna,Passed,"acquired by Stratasys. 3D Printing Industry-leader.
+",MakerBot,10000000.0,150,150.0,['recs4pTBrGCE4AjJZ'],40.6932688,"One MetroTech Center, 21st Fl, Brooklyn, NY 11201 USA",['recdgZhrJxyjqLAb9'],500+,2009.0,Brooklyn,contact@makerbot.com,-73.98710059999999,,['Construction Systems'],2022-03-01,['Construction Systems: Fabrication'],,,,,,,74390000.0,,3D Printer,,
+237,1140,recvV6DUCxUBjzoUh,2022-01-05T20:22:37.000Z,https://axonvibe.com/,TechNYC,usr9BPdDIhuQuzTkj,atownsend@cornell.edu,Anthony Townsend,Passed,"Supplier of geointelligence to transit operators
+",Axon Vibe Inc.,,,,['recFdD4KnUimyaKUC'],40.7232119,"65 Greene St, New York, NY 10016",['receyB6jWwnjSbV8a'],101-250,2014.0,Manhattan,info@axonvibe.com,-74.0011148,,['Mobility Systems'],2022-03-02,['Mobility Systems: TransitTech'],,,,,,,,https://axonvibe.com/contact-us-new-york-city,,,
+238,1146,recw51cBdMD3N2qhz,2021-11-02T02:42:18.000Z,https://rentricity.com,NYC EDC,usrCxpuT0RoHLuwkR,ek542@cornell.edu,Eesha Khanna,Passed,"Rentricity's product is a system called Flow-to-Wire, which harnesses excess pressure within water operations and uses it to generate clean electric power.
+",Rentricity,435900.0,3,3.0,['recxoYfGUZEqppDaZ'],40.7274142,"175 Varick St 8th floor, New York, NY 10014",['recoxnv8QKuu7vlwx'],1-10,2003.0,Manhattan,info@rentricity.com,-74.0059095,,['Energy Systems'],2022-03-02,['Energy Systems: Buildings'],"Employee range + count: LinkedIn
+",,,,,,,,"Energy Reduction, Energy Recovery, Water and Wastewater Plants",,
+239,1147,recw8y0qwqayRTAic,2021-11-02T18:15:41.000Z,https://www.envairo.com/,,usrCxpuT0RoHLuwkR,ek542@cornell.edu,Eesha Khanna,Passed,"Envairo is a software platform that quantifies space use to optimize office buildings without installing new sensors.
+",Envairo,60000000.0,5,5.0,['recxoYfGUZEqppDaZ'],40.7246788,"29 Norman Ave, Brooklyn, NY 11222, US",['recoxnv8QKuu7vlwx'],1-10,2016.0,Brooklyn,info@envairo.com,-73.9548791,"Automate air con in buildings
+",['Energy Systems'],2022-03-02,['Energy Systems: Buildings'],,,,,,,,,,,
+240,1148,recwBCMjQjIWuqb4k,2022-01-05T20:22:37.000Z,https://visit.org/,TechNYC,usrirgB6rl9ulQW3Z,pa293@cornell.edu,Preksha Agarwal,Passed,"hybrid work consultants -- ""Build your program of virtual social impact experiences, curated & customized for your company""
+",Visit.org,,58,58.0,['recVC3ZXCuU3trkwt'],40.7134166,"7 World Trade Center, 250 Greenwich Street, New York, NY 10007",['rec5CKA579ehIVo7b'],51-100,2015.0,Manhattan,hello@visit.org,-74.0119311,,['Labor Systems'],2022-03-02,['Labor Systems: Hybrid Solutions'],,,,,,,8100000.0,,,,
+241,1154,recwdJbPovtceKa2T,2021-10-19T16:27:40.000Z,https://numina.co/,,usrirgB6rl9ulQW3Z,pa293@cornell.edu,Preksha Agarwal,Passed,"Company focused an advanced analytics of street activity.
+",Numina,,14,14.0,['recrSVGURn4rHAspL'],40.6929116,"370 Jay St., 7th Floor, Brooklyn, NEW YORK 11201, US",['recRDZqf1tuLAXPKP'],11-50,2014.0,Brooklyn,tara@numina.co,-73.98746129999999,sensing platform using CV to gather street data,['Civic Systems'],2022-02-28,['Civic Systems: Public Space Tech'],,Tara Pham,,"bounced, resent on 2/28 to tara@numina.co
+
+",,,1500000.0,,,,
+242,1173,recxsKGj48yrGZezc,2021-11-02T02:21:48.000Z,www.clearroad.io,,usrzlz6zDGzjGmaEg,mfd64@cornell.edu,Max Dumas,Passed,"ClearRoad provides cloud-based solutions to keep roads well-maintained and well-managed. It enables Stripe-for-Tolling, leveraging in-vehicle tech & data for next-generation pricing of the road.
+",ClearRoad,2500000.0,,,['receBXbN6odOQUuS7'],40.7246788,"99 Wall Street, New York, NY, 10005",['receyB6jWwnjSbV8a'],11-50,2017.0,Manhattan,contact@clearroad.io,-73.9548791,,['Mobility Systems'],2022-03-02,['Mobility Systems: Traffic informatics'],,,,"Hello,
+
+Business Address: 99 wall street, New York, NY, 10005
+Employment Range: 10-20
+Investment: $2.5M
+
+Thanks
+
+
+",,,,,"Government, Analytics",,
+243,1177,recy77GmyX6Gh8799,2022-01-27T20:13:45.000Z,https://www.davidenergy.com/,,usrzlz6zDGzjGmaEg,mfd64@cornell.edu,Max Dumas,Passed,,David Energy,20600000.0,,,['recxoYfGUZEqppDaZ'],,"417 Grand St Suite #1, Brooklyn, NY 11211, USA",['recoxnv8QKuu7vlwx'],11-50,2017.0,Brooklyn,info@davidenergy.com,,,['Energy Systems'],2022-03-03,['Energy Systems: Buildings'],,,,,,,,,,,
+244,1183,recyLyyKOk7Y8wElp,2021-10-19T16:54:04.000Z,https://curbicus.com/,NYC EDC,usrirgB6rl9ulQW3Z,pa293@cornell.edu,Preksha Agarwal,Passed,"Company providing a tool for picking up dog poop using compostable capsules.
+",Curbicus,,5,5.0,['recsZ3Zc9dgmOn2NC'],40.769594,"230 East 73 Street NY, NY, 10021",['recb7WeB0tStkTUq8'],1-10,2017.0,Manhattan,Anna@curbicus.com,-73.958705,,['Waste Systems'],2022-03-01,['Waste Systems: Diversion'],"website, crunchbase, linkedin
+",Anna Gannon,CEO,,,,,,,,
+245,1186,recya2WkFYvTaxCA6,2022-01-05T20:22:37.000Z,https://mouse.org/,TechNYC,usr9BPdDIhuQuzTkj,atownsend@cornell.edu,Anthony Townsend,Passed,"another one for innov infra: workforce development
+",Mouse,,,,['recuDsRljHOP7xwHK'],40.705555,"25 Broadway, c/o TFA 12th Floor, New York, NY 10004",['reca3rMDOoKHI3hPh'],11-50,1997.0,Manhattan,info@mouse.org,-74.0138858,,['Education Systems'],2022-03-02,['Education Systems: Tech Training'],"based on 139 on linked in, probably most are volunteers
+",,,,,,,,,,
+246,1188,recygxOGvHU0Ly8qV,2022-01-05T20:22:37.000Z,https://irisvr.com/,TechNYC,usr9BPdDIhuQuzTkj,atownsend@cornell.edu,Anthony Townsend,Passed,"VR for building industry
+",IrisVR,13800000.0,,,['recs4pTBrGCE4AjJZ'],40.7428853,"1115 Broadway, New York, NY 10010",['recdgZhrJxyjqLAb9'],11-50,2014.0,Manhattan,info@irisvr.com,-73.9892959,,['Construction Systems'],2022-03-02,['Construction Systems: Surveying & Design'],"Acquired by The Wild. Can't find exact number of employees. 
+",,,,,,,,,,
+247,1191,recyrwUWZecsurc3J,2022-01-05T20:22:37.000Z,https://facilio.com/,TechNYC,usrirgB6rl9ulQW3Z,pa293@cornell.edu,Preksha Agarwal,Passed,"""Property operations done right. 
+Designed for time and cost-saving efficiency in building operations now and into the future.""
+",Facilio,6400000.0,95,95.0,['rec3hVUb0uifxVbD5'],40.7541007,"510 5th Ave, 3rd Floor, New York, NY 10036",['recdgZhrJxyjqLAb9'],51-100,2017.0,Manhattan,getsmart@facilio.com,-73.9808544,,['Building Systems'],2022-03-02,['Building Systems: Facilities Management'],"growjo, website	
+",,,,,,,,,,
+248,1199,reczHiOlhCXAu6rmb,2022-01-05T20:22:37.000Z,https://coopcareers.org/,TechNYC,usr2qPunnCed2lMv6,lk545@cornell.edu,Lars Kouwenhoven,Passed,"Focused on urban public colleges so pass.
+",COOP,,,,['recC6fzY1qYFMz728'],40.7572817,"1177 Avenue of the Americas, 5th Floor • New York, NY 10036",['rec5CKA579ehIVo7b'],11-50,2008.0,Manhattan,hello@coopbrand.co,-73.982869,,['Labor Systems'],2022-03-02,['Labor Systems: Workforce Development'],"Address from website. LinkedIn lists a lot of people that are enrolled in their programs and not necessarily employed by them, so it is tough to get a good impression of the number of actual employees. 
+",,,,,,,,,,
